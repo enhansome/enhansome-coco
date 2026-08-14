@@ -715,7 +715,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-07T00:22:23Z",
+            "last_commit": "2026-08-14T14:05:43Z",
             "owner": "jamieleecho",
             "repo": "coco-dev",
             "stars": 20
@@ -1150,7 +1150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:44:11.061Z",
+    "last_updated": "2026-08-14T15:38:07.463Z",
     "original_repository": "dougmasten/awesome-coco",
     "original_repository_sha": "38f9e4e9ba88a9e5f57cc0f48e43d1204e850b8a",
     "enhanced_repository": "enhansome/enhansome-coco",
