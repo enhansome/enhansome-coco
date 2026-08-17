@@ -147,7 +147,7 @@
             "last_commit": "2024-12-08T01:14:33Z",
             "owner": "barberd",
             "repo": "coco9511pak",
-            "stars": 10
+            "stars": 11
           }
         },
         {
@@ -253,7 +253,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-08-15T00:06:16Z",
+            "last_commit": "2026-08-17T11:52:52Z",
             "owner": "nitros9project",
             "repo": "nitros9",
             "stars": 49
@@ -746,7 +746,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-09T05:56:05Z",
+            "last_commit": "2026-08-17T03:18:34Z",
             "owner": "VCCE",
             "repo": "VCC",
             "stars": 80
@@ -927,7 +927,7 @@
             "last_commit": "2023-09-24T19:01:41Z",
             "owner": "einar-saukas",
             "repo": "ZX0",
-            "stars": 233
+            "stars": 234
           }
         },
         {
@@ -941,7 +941,7 @@
             "last_commit": "2023-05-16T09:06:08Z",
             "owner": "emmanuel-marty",
             "repo": "apultra",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -1150,7 +1150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:05:19.639Z",
+    "last_updated": "2026-08-17T15:12:27.233Z",
     "original_repository": "dougmasten/awesome-coco",
     "original_repository_sha": "38f9e4e9ba88a9e5f57cc0f48e43d1204e850b8a",
     "enhanced_repository": "enhansome/enhansome-coco",

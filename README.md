@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,407 | 🐛 100 | 📅 2026-06-30 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,846 | 🐛 100 | 📅 2026-06-30 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -155,7 +155,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 * [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb) ⭐ 29 | 🐛 1 | 🌐 Assembly | 📅 2025-12-31
 * [CoCo Prototyping Board](https://github.com/JayesonLS/TandyCircuitsAndLogic/tree/master/CoCoProtoBoard) ⭐ 14 | 🐛 0 | 📅 2021-05-18
 * [FlashPak](https://github.com/go4retro/FlashPak) ⭐ 12 | 🐛 0 | 🌐 Assembly | 📅 2024-05-07 - 512kB FLASH ROM Cartridge Unit
-* [CoCo Am9511 Pak](https://github.com/barberd/coco9511pak) ⭐ 10 | 🐛 0 | 🌐 Assembly | 📅 2024-12-08 - Arithmethic Processor Unit (AMD 9511) Cartridge by Don Barber
+* [CoCo Am9511 Pak](https://github.com/barberd/coco9511pak) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2024-12-08 - Arithmethic Processor Unit (AMD 9511) Cartridge by Don Barber
 * [CoCo Daiquiri - Replacement board for the SC77527P DAC Chip](https://github.com/qbancoffee/coco_daiquiri) ⭐ 7 | 🐛 0 | 📅 2023-02-24
 * [CoCo-FujiNet](https://github.com/djtersteegc/Coco-FujiNet) ⭐ 6 | 🐛 1 | 📅 2025-02-03 - Multi-peripheral emulator and WiFi network device
 * [Hardware Keyboard Encoder](https://github.com/wyndec/CoCoKeys2USB) ⭐ 6 | 🐛 1 | 🌐 C++ | 📅 2021-10-27
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 49 | 🐛 13 | 🌐 Assembly | 📅 2026-08-15 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 49 | 🐛 12 | 🌐 Assembly | 📅 2026-08-17 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 31 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 26 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -302,7 +302,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Emulators
 
-* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 80 | 🐛 32 | 🌐 C++ | 📅 2026-08-09 - Virtual Color Computer Emulator
+* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 80 | 🐛 32 | 🌐 C++ | 📅 2026-08-17 - Virtual Color Computer Emulator
 * [CoCo-Pi](https://github.com/mrgw454/CoCo-Pi) ⚠️ Archived - Raspberry Pi based CoCo Emulation Distribution
   * [Set up the CoCoPi and MAME to be a CoCo gaming console](https://youtu.be/sPvzXV0HqoQ)
   * [Setting up the CoCo-Pi - 11 part video series](https://www.youtube.com/watch?v=9Ui6TQsmCP0)
@@ -339,10 +339,10 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 #### Compression
 
 * [LZSA](https://github.com/emmanuel-marty/lzsa) ⭐ 261 | 🐛 11 | 🌐 C | 📅 2023-12-24 - Fast Data Decompression by Marty Emmanuel
-* [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 233 | 🐛 19 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
+* [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 234 | 🐛 19 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
   * [Salvador - Fast, near-optimal ZX0 compressor](https://github.com/emmanuel-marty/salvador) ⭐ 97 | 🐛 4 | 🌐 C | 📅 2023-03-23 - by Emmanuel Marty
   * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2022-07-13 - by Doug Masten
-* [apultra](https://github.com/emmanuel-marty/apultra) ⭐ 120 | 🐛 9 | 🌐 C | 📅 2023-05-16 - Optimal data compressor for apLib format by Marty Emmanuel
+* [apultra](https://github.com/emmanuel-marty/apultra) ⭐ 121 | 🐛 9 | 🌐 C | 📅 2023-05-16 - Optimal data compressor for apLib format by Marty Emmanuel
 * [Exomizer](https://bitbucket.org/magli143/exomizer/wiki/Home) - Packing tool by Magnus Lind
 * [SLZ](https://www.gamedev.net/reference/articles/article294.asp) - LZ77 based compression by Adisak Pochanayon
   * [SLZ M6809 Depacker](https://github.com/beretta42/legsforth/blob/master/cocoboot/slz.asm) ⭐ 6 | 🐛 1 | 🌐 Forth | 📅 2020-07-21
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
