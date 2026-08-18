@@ -253,7 +253,7 @@
           "repo_info": {
             "archived": false,
             "language": "Assembly",
-            "last_commit": "2026-08-17T11:52:52Z",
+            "last_commit": "2026-08-18T15:04:44Z",
             "owner": "nitros9project",
             "repo": "nitros9",
             "stars": 49
@@ -718,7 +718,7 @@
             "last_commit": "2026-08-14T15:53:43Z",
             "owner": "jamieleecho",
             "repo": "coco-dev",
-            "stars": 20
+            "stars": 21
           }
         },
         {
@@ -1150,7 +1150,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:12:27.233Z",
+    "last_updated": "2026-08-18T15:17:17.925Z",
     "original_repository": "dougmasten/awesome-coco",
     "original_repository_sha": "38f9e4e9ba88a9e5f57cc0f48e43d1204e850b8a",
     "enhanced_repository": "enhansome/enhansome-coco",
