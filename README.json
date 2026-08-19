@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 504446491,
             "language": "C",
             "last_commit": "2025-01-27T16:28:35Z",
             "owner": "hoglet67",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 504446491,
             "language": "C",
             "last_commit": "2025-01-27T16:28:35Z",
             "owner": "hoglet67",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1087863424,
             "language": "Python",
             "last_commit": "2026-04-14T01:08:43Z",
             "owner": "reyco2000",
@@ -49,1109 +52,1169 @@
       "title": "Documentation"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Hardware"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sound"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Maker Community"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "In-Circuit Emulator for 6809E processor",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "VHDL",
-            "last_commit": "2026-02-03T11:53:16Z",
-            "owner": "hoglet67",
-            "repo": "AtomBusMon",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoCo Motherboards",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-07-20T12:18:08Z",
-            "owner": "qbancoffee",
-            "repo": "coco_motherboards",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoCo 2 USB Power Mod",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2025-12-31T14:18:31Z",
-            "owner": "hallorant",
-            "repo": "bigmit",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoCo Prototyping Board",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-05-18T13:17:08Z",
-            "owner": "JayesonLS",
-            "repo": "TandyCircuitsAndLogic",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FlashPak",
-          "description": "512kB FLASH ROM Cartridge Unit",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2024-05-07T04:43:26Z",
-            "owner": "go4retro",
-            "repo": "FlashPak",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoCo Am9511 Pak",
-          "description": "Arithmethic Processor Unit (AMD 9511) Cartridge by Don Barber",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2024-12-08T01:14:33Z",
-            "owner": "barberd",
-            "repo": "coco9511pak",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoCo Daiquiri - Replacement board for the SC77527P DAC Chip",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-02-24T03:04:19Z",
-            "owner": "qbancoffee",
-            "repo": "coco_daiquiri",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoCo-FujiNet",
-          "description": "Multi-peripheral emulator and WiFi network device",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-02-03T21:37:57Z",
-            "owner": "djtersteegc",
-            "repo": "Coco-FujiNet",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hardware Keyboard Encoder",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-10-27T02:24:18Z",
-            "owner": "wyndec",
-            "repo": "CoCoKeys2USB",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoCo Joystick to USB adapter",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-02-07T20:19:00Z",
-            "owner": "wyndec",
-            "repo": "CoCoJoy2USB",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Digital to Analog Joystick Circuit",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-06-18T14:40:09Z",
-            "owner": "GadgetReboot",
-            "repo": "D_A_CoCo_Joystick_Adapter",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Development Cartridge",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2022-02-01T22:22:56Z",
-            "owner": "topherCantrell",
-            "repo": "retro-CoCoC64DevCart",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Hardware Designs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Programming"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NitrOS-9",
-          "description": "Community-based distribution of Microware OS-9 operating system",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2026-08-18T15:04:44Z",
-            "owner": "nitros9project",
-            "repo": "nitros9",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoCo ROMs",
-          "description": "Color Computer ROM disassemblies",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2024-03-20T01:24:45Z",
-            "owner": "tomctomc",
-            "repo": "coco_roms",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Apple2CoCo",
-          "description": "Apple II emulator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2024-02-20T23:34:37Z",
-            "owner": "dragonbytes",
-            "repo": "Apple2CoCo",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dungeons of Daggorath",
-          "description": "Original source code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2022-02-14T04:19:43Z",
-            "owner": "MichaelSpencerJr",
-            "repo": "DungeonsOfDaggorath",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Temple of ROM",
-          "description": "Author Rick Adams release (Disassembly by William Astle)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2024-06-02T19:50:52Z",
-            "owner": "yggdrasilradio",
-            "repo": "templeofrom",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Joust_CoCo3",
-          "description": "Conversion of William's arcade game by Glen Hewlett",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-09-29T02:34:34Z",
-            "owner": "nowhereman999",
-            "repo": "Joust_CoCo3",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Color Max Deluxe (1987)",
-          "description": "Original source code by Erik Gavriluk and Greg Miller",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2021-10-05T01:44:43Z",
-            "owner": "milliluk",
-            "repo": "colormax",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Defender_CoCo3",
-          "description": "Conversion of William's arcade game by Glen Hewlett",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-09-28T17:47:59Z",
-            "owner": "nowhereman999",
-            "repo": "Defender_CoCo3",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Space Bandits",
-          "description": "CoCo 3 and macOS video game by Jamie Cho",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-12T17:00:11Z",
-            "owner": "jamieleecho",
-            "repo": "space-bandits",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ghidorah",
-          "description": "Message protocol using custom RS-232 cables",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2024-06-12T04:18:42Z",
-            "owner": "DrPitre",
-            "repo": "ghidorah",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zenix and Crystal City",
-          "description": "Original source code by Jeremy Spiller",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Visual Basic",
-            "last_commit": "2018-11-11T15:29:29Z",
-            "owner": "gosub-com",
-            "repo": "Coco",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shanghai",
-          "description": "Original source code by Rick Adams",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "BASIC",
-            "last_commit": "2025-05-06T10:19:47Z",
-            "owner": "yggdrasilradio",
-            "repo": "shanghai",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ColorTRSDOS",
-          "description": "by Robert G. Kilgus",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2026-07-24T01:49:04Z",
-            "owner": "DarkChocoholicDev",
-            "repo": "ColorTRSDOS",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Audio Spectrum Analyzer",
-          "description": "Disassembly by Chet Simpson",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2025-07-26T11:12:12Z",
-            "owner": "ChetSimpson",
-            "repo": "CoCo-AudioSpectrumAnalyzer",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Star Spores",
-          "description": "Original source code by Dave Shadoff",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2024-02-05T01:01:59Z",
-            "owner": "dshadoff",
-            "repo": "Star-Spores_CoCo",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Delphiterm",
-          "description": "Original source code by Rick Adams",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2019-09-28T16:26:17Z",
-            "owner": "yggdrasilradio",
-            "repo": "delphiterm",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Downland",
-          "description": "Downland V1.1 disassembly",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2025-06-13T20:33:52Z",
-            "owner": "pw32x",
-            "repo": "Downland_RE",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Run-Dino-Run",
-          "description": "Original source code by Paul Fiscarelli",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2023-09-21T22:51:57Z",
-            "owner": "pfiscarelli",
-            "repo": "Run-Dino-Run",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Source Code"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Defender",
-          "description": "M6809 arcade game",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-01-08T02:23:49Z",
-            "owner": "historicalsource",
-            "repo": "defender",
-            "stars": 140
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Microsoft BASIC",
-          "description": "Dragon 64 computer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-10-20T03:28:48Z",
-            "owner": "davidlinsley",
-            "repo": "DragonBasic",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Joust",
-          "description": "M6809 arcade game",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Roff",
-            "last_commit": "2021-01-08T02:14:13Z",
-            "owner": "historicalsource",
-            "repo": "joust",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sinistar",
-          "description": "M6809 arcade game",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "DIGITAL Command Language",
-            "last_commit": "2021-04-06T16:04:26Z",
-            "owner": "historicalsource",
-            "repo": "sinistar",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Robotron",
-          "description": "M6809 arcade game",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2021-01-08T02:27:40Z",
-            "owner": "historicalsource",
-            "repo": "robotron",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Star-Wars",
-          "description": "M6809 arcade game",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-10-15T05:55:21Z",
-            "owner": "historicalsource",
-            "repo": "star-wars",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stargate",
-          "description": "M6809 arcade game",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-01-08T02:30:50Z",
-            "owner": "historicalsource",
-            "repo": "stargate",
-            "stars": 41
-          }
-        }
-      ],
-      "title": "Other platforms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Protocols"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "pyDriveWire",
-          "description": "Python implementation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-23T20:50:06Z",
-            "owner": "n6il",
-            "repo": "pyDriveWire",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DriveWire Official Home",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-07-28T09:10:27Z",
-            "owner": "DrPitre",
-            "repo": "DriveWire",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DriveWire Specification",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2026-07-28T09:10:27Z",
-            "owner": "DrPitre",
-            "repo": "DriveWire",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DriveWire 3 Server for Mac",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Objective-C",
-            "last_commit": "2023-09-28T01:09:13Z",
-            "owner": "DrPitre",
-            "repo": "drivewire-mac",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DriveWire 3 Server for Linux",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2021-11-13T23:15:16Z",
-            "owner": "DrPitre",
-            "repo": "drivewire-unix",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DriveWire 3 Server for Windows",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Pascal",
-            "last_commit": "2019-11-09T11:56:54Z",
-            "owner": "DrPitre",
-            "repo": "drivewire-win",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "DriveWire"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Software Development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Docker",
-          "description": "Simplified environment using docker images",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2026-08-14T15:53:43Z",
-            "owner": "jamieleecho",
-            "repo": "coco-dev",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Atom",
-          "description": "Atom editor development environment",
-          "children": []
-        }
-      ],
-      "title": "Development Environment"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Editor Syntax Highlighting"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "VCC",
-          "description": "Virtual Color Computer Emulator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T03:18:34Z",
-            "owner": "VCCE",
-            "repo": "VCC",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoCo-Pi",
-          "description": "Raspberry Pi based CoCo Emulation Distribution",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2023-10-20T15:49:42Z",
-            "owner": "mrgw454",
-            "repo": "CoCo-Pi",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Emulators"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "f9dasm",
-          "description": "Disassembler",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-07-04T11:25:45Z",
-            "owner": "Arakula",
-            "repo": "f9dasm",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Toolshed",
-          "description": "Cross-development disk images tools Documentation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-07T19:37:40Z",
-            "owner": "nitros9project",
-            "repo": "toolshed",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dasmfw",
-          "description": "DisASseMbler FrameWork",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-07-04T11:46:36Z",
-            "owner": "Arakula",
-            "repo": "dasmfw",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cocostress",
-          "description": "CoCo 3 RAM Stress Tester",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2020-04-21T22:52:06Z",
-            "owner": "richard42",
-            "repo": "cocostress",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "m6809-dev",
-          "description": "MSys2 mingw package builds for cross developing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-09T16:24:11Z",
-            "owner": "stahta01",
-            "repo": "m6809-dev",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sgeditreborn",
-          "description": "Web based low-res screen designer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-11-23T09:02:53Z",
-            "owner": "daftspaniel",
-            "repo": "sgeditreborn",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "os9-dev",
-          "description": "Arch Linux package builds for cross developing",
-          "children": []
-        }
-      ],
-      "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LZSA",
-          "description": "Fast Data Decompression by Marty Emmanuel",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-12-24T17:38:48Z",
-            "owner": "emmanuel-marty",
-            "repo": "lzsa",
-            "stars": 261
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZX0",
-          "description": "by Einar Saukas",
           "children": [
             {
               "node_type": "item",
-              "title": "Salvador - Fast, near-optimal ZX0 compressor",
-              "description": "by Emmanuel Marty",
+              "title": "In-Circuit Emulator for 6809E processor",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "C",
-                "last_commit": "2023-03-23T08:28:57Z",
-                "owner": "emmanuel-marty",
-                "repo": "salvador",
-                "stars": 97
+                "id": 37012109,
+                "language": "VHDL",
+                "last_commit": "2026-02-03T11:53:16Z",
+                "owner": "hoglet67",
+                "repo": "AtomBusMon",
+                "stars": 109
               }
             },
             {
               "node_type": "item",
-              "title": "ZX0 6x09 Decompressor",
-              "description": "by Doug Masten",
+              "title": "CoCo Motherboards",
+              "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 511745488,
+                "language": "HTML",
+                "last_commit": "2025-07-20T12:18:08Z",
+                "owner": "qbancoffee",
+                "repo": "coco_motherboards",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoCo 2 USB Power Mod",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208386483,
                 "language": "Assembly",
-                "last_commit": "2022-07-13T17:42:16Z",
-                "owner": "dougmasten",
-                "repo": "zx0-6x09",
+                "last_commit": "2025-12-31T14:18:31Z",
+                "owner": "hallorant",
+                "repo": "bigmit",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoCo Prototyping Board",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58847368,
+                "language": null,
+                "last_commit": "2021-05-18T13:17:08Z",
+                "owner": "JayesonLS",
+                "repo": "TandyCircuitsAndLogic",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FlashPak",
+              "description": "512kB FLASH ROM Cartridge Unit",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245071162,
+                "language": "Assembly",
+                "last_commit": "2024-05-07T04:43:26Z",
+                "owner": "go4retro",
+                "repo": "FlashPak",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoCo Am9511 Pak",
+              "description": "Arithmethic Processor Unit (AMD 9511) Cartridge by Don Barber",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 591360239,
+                "language": "Assembly",
+                "last_commit": "2024-12-08T01:14:33Z",
+                "owner": "barberd",
+                "repo": "coco9511pak",
                 "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoCo Daiquiri - Replacement board for the SC77527P DAC Chip",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 429621026,
+                "language": null,
+                "last_commit": "2023-02-24T03:04:19Z",
+                "owner": "qbancoffee",
+                "repo": "coco_daiquiri",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoCo-FujiNet",
+              "description": "Multi-peripheral emulator and WiFi network device",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 742278968,
+                "language": null,
+                "last_commit": "2025-02-03T21:37:57Z",
+                "owner": "djtersteegc",
+                "repo": "Coco-FujiNet",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hardware Keyboard Encoder",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 257383688,
+                "language": "C++",
+                "last_commit": "2021-10-27T02:24:18Z",
+                "owner": "wyndec",
+                "repo": "CoCoKeys2USB",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoCo Joystick to USB adapter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307813987,
+                "language": "C++",
+                "last_commit": "2026-02-07T20:19:00Z",
+                "owner": "wyndec",
+                "repo": "CoCoJoy2USB",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Digital to Analog Joystick Circuit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 655308014,
+                "language": null,
+                "last_commit": "2023-06-18T14:40:09Z",
+                "owner": "GadgetReboot",
+                "repo": "D_A_CoCo_Joystick_Adapter",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Development Cartridge",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63240319,
+                "language": "Assembly",
+                "last_commit": "2022-02-01T22:22:56Z",
+                "owner": "topherCantrell",
+                "repo": "retro-CoCoC64DevCart",
+                "stars": 2
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2023-09-24T19:01:41Z",
-            "owner": "einar-saukas",
-            "repo": "ZX0",
-            "stars": 234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "apultra",
-          "description": "Optimal data compressor for apLib format by Marty Emmanuel",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-05-16T09:06:08Z",
-            "owner": "emmanuel-marty",
-            "repo": "apultra",
-            "stars": 121
-          }
-        },
-        {
+          "description": null,
           "node_type": "group",
-          "title": "SLZ",
-          "description": "LZ77 based compression by Adisak Pochanayon",
+          "title": "Hardware Designs"
+        }
+      ],
+      "title": "Maker Community"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "SLZ M6809 Depacker",
+              "title": "NitrOS-9",
+              "description": "Community-based distribution of Microware OS-9 operating system",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 692304064,
+                "language": "Assembly",
+                "last_commit": "2026-08-19T02:12:55Z",
+                "owner": "nitros9project",
+                "repo": "nitros9",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoCo ROMs",
+              "description": "Color Computer ROM disassemblies",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175299265,
+                "language": "Assembly",
+                "last_commit": "2024-03-20T01:24:45Z",
+                "owner": "tomctomc",
+                "repo": "coco_roms",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apple2CoCo",
+              "description": "Apple II emulator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 589379575,
+                "language": "Assembly",
+                "last_commit": "2024-02-20T23:34:37Z",
+                "owner": "dragonbytes",
+                "repo": "Apple2CoCo",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dungeons of Daggorath",
+              "description": "Original source code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452404138,
+                "language": "Assembly",
+                "last_commit": "2022-02-14T04:19:43Z",
+                "owner": "MichaelSpencerJr",
+                "repo": "DungeonsOfDaggorath",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Temple of ROM",
+              "description": "Author Rick Adams release (Disassembly by William Astle)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 209674375,
+                "language": "Assembly",
+                "last_commit": "2024-06-02T19:50:52Z",
+                "owner": "yggdrasilradio",
+                "repo": "templeofrom",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Joust_CoCo3",
+              "description": "Conversion of William's arcade game by Glen Hewlett",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 315103737,
+                "language": null,
+                "last_commit": "2021-09-29T02:34:34Z",
+                "owner": "nowhereman999",
+                "repo": "Joust_CoCo3",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Color Max Deluxe (1987)",
+              "description": "Original source code by Erik Gavriluk and Greg Miller",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64563781,
+                "language": "Assembly",
+                "last_commit": "2021-10-05T01:44:43Z",
+                "owner": "milliluk",
+                "repo": "colormax",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Defender_CoCo3",
+              "description": "Conversion of William's arcade game by Glen Hewlett",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 410272764,
+                "language": null,
+                "last_commit": "2021-09-28T17:47:59Z",
+                "owner": "nowhereman999",
+                "repo": "Defender_CoCo3",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Space Bandits",
+              "description": "CoCo 3 and macOS video game by Jamie Cho",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28780264,
+                "language": "C",
+                "last_commit": "2026-04-12T17:00:11Z",
+                "owner": "jamieleecho",
+                "repo": "space-bandits",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ghidorah",
+              "description": "Message protocol using custom RS-232 cables",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 309188813,
+                "language": "Assembly",
+                "last_commit": "2024-06-12T04:18:42Z",
+                "owner": "DrPitre",
+                "repo": "ghidorah",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zenix and Crystal City",
+              "description": "Original source code by Jeremy Spiller",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157092732,
+                "language": "Visual Basic",
+                "last_commit": "2018-11-11T15:29:29Z",
+                "owner": "gosub-com",
+                "repo": "Coco",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shanghai",
+              "description": "Original source code by Rick Adams",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 228271602,
+                "language": "BASIC",
+                "last_commit": "2025-05-06T10:19:47Z",
+                "owner": "yggdrasilradio",
+                "repo": "shanghai",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ColorTRSDOS",
+              "description": "by Robert G. Kilgus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1276087759,
+                "language": "Assembly",
+                "last_commit": "2026-07-24T01:49:04Z",
+                "owner": "DarkChocoholicDev",
+                "repo": "ColorTRSDOS",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Audio Spectrum Analyzer",
+              "description": "Disassembly by Chet Simpson",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1026669533,
+                "language": "Assembly",
+                "last_commit": "2025-07-26T11:12:12Z",
+                "owner": "ChetSimpson",
+                "repo": "CoCo-AudioSpectrumAnalyzer",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Star Spores",
+              "description": "Original source code by Dave Shadoff",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 281815268,
+                "language": "Assembly",
+                "last_commit": "2024-02-05T01:01:59Z",
+                "owner": "dshadoff",
+                "repo": "Star-Spores_CoCo",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Delphiterm",
+              "description": "Original source code by Rick Adams",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 211528547,
+                "language": "Assembly",
+                "last_commit": "2019-09-28T16:26:17Z",
+                "owner": "yggdrasilradio",
+                "repo": "delphiterm",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Downland",
+              "description": "Downland V1.1 disassembly",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 908035738,
+                "language": "Assembly",
+                "last_commit": "2025-06-13T20:33:52Z",
+                "owner": "pw32x",
+                "repo": "Downland_RE",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Run-Dino-Run",
+              "description": "Original source code by Paul Fiscarelli",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 220804206,
+                "language": "Assembly",
+                "last_commit": "2023-09-21T22:51:57Z",
+                "owner": "pfiscarelli",
+                "repo": "Run-Dino-Run",
+                "stars": 2
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Defender",
+                  "description": "M6809 arcade game",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 327776774,
+                    "language": null,
+                    "last_commit": "2021-01-08T02:23:49Z",
+                    "owner": "historicalsource",
+                    "repo": "defender",
+                    "stars": 140
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Microsoft BASIC",
+                  "description": "Dragon 64 computer",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 572364148,
+                    "language": null,
+                    "last_commit": "2023-10-20T03:28:48Z",
+                    "owner": "davidlinsley",
+                    "repo": "DragonBasic",
+                    "stars": 120
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Joust",
+                  "description": "M6809 arcade game",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 327771769,
+                    "language": "Roff",
+                    "last_commit": "2021-01-08T02:14:13Z",
+                    "owner": "historicalsource",
+                    "repo": "joust",
+                    "stars": 58
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sinistar",
+                  "description": "M6809 arcade game",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 354170480,
+                    "language": "DIGITAL Command Language",
+                    "last_commit": "2021-04-06T16:04:26Z",
+                    "owner": "historicalsource",
+                    "repo": "sinistar",
+                    "stars": 57
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Robotron",
+                  "description": "M6809 arcade game",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 327777524,
+                    "language": "Assembly",
+                    "last_commit": "2021-01-08T02:27:40Z",
+                    "owner": "historicalsource",
+                    "repo": "robotron",
+                    "stars": 46
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Star-Wars",
+                  "description": "M6809 arcade game",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 417383727,
+                    "language": null,
+                    "last_commit": "2021-10-15T05:55:21Z",
+                    "owner": "historicalsource",
+                    "repo": "star-wars",
+                    "stars": 45
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Stargate",
+                  "description": "M6809 arcade game",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 327778115,
+                    "language": null,
+                    "last_commit": "2021-01-08T02:30:50Z",
+                    "owner": "historicalsource",
+                    "repo": "stargate",
+                    "stars": 41
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Other platforms"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Source Code"
+        }
+      ],
+      "title": "Programming"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pyDriveWire",
+              "description": "Python implementation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52760966,
+                "language": "Python",
+                "last_commit": "2026-07-23T20:50:06Z",
+                "owner": "n6il",
+                "repo": "pyDriveWire",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DriveWire Official Home",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Forth",
-                "last_commit": "2020-07-21T03:02:27Z",
-                "owner": "beretta42",
-                "repo": "legsforth",
+                "id": 702529693,
+                "language": "Objective-C",
+                "last_commit": "2026-07-28T09:10:27Z",
+                "owner": "DrPitre",
+                "repo": "DriveWire",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DriveWire Specification",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 702529693,
+                "language": "Objective-C",
+                "last_commit": "2026-07-28T09:10:27Z",
+                "owner": "DrPitre",
+                "repo": "DriveWire",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DriveWire 3 Server for Mac",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 34047996,
+                "language": "Objective-C",
+                "last_commit": "2023-09-28T01:09:13Z",
+                "owner": "DrPitre",
+                "repo": "drivewire-mac",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DriveWire 3 Server for Linux",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 116531487,
+                "language": "C",
+                "last_commit": "2021-11-13T23:15:16Z",
+                "owner": "DrPitre",
+                "repo": "drivewire-unix",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DriveWire 3 Server for Windows",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 220635380,
+                "language": "Pascal",
+                "last_commit": "2019-11-09T11:56:54Z",
+                "owner": "DrPitre",
+                "repo": "drivewire-win",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DriveWire"
+        }
+      ],
+      "title": "Protocols"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Docker",
+              "description": "Simplified environment using docker images",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115841109,
+                "language": "Dockerfile",
+                "last_commit": "2026-08-14T15:53:43Z",
+                "owner": "jamieleecho",
+                "repo": "coco-dev",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development Environment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VCC",
+              "description": "Virtual Color Computer Emulator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 227663457,
+                "language": "C++",
+                "last_commit": "2026-08-17T03:18:34Z",
+                "owner": "VCCE",
+                "repo": "VCC",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CoCo-Pi",
+              "description": "Raspberry Pi based CoCo Emulation Distribution",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 391392338,
+                "language": "Shell",
+                "last_commit": "2023-10-20T15:49:42Z",
+                "owner": "mrgw454",
+                "repo": "CoCo-Pi",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emulators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "f9dasm",
+              "description": "Disassembler",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37939702,
+                "language": "C",
+                "last_commit": "2023-07-04T11:25:45Z",
+                "owner": "Arakula",
+                "repo": "f9dasm",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Toolshed",
+              "description": "Cross-development disk images tools Documentation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 691338838,
+                "language": "C",
+                "last_commit": "2026-08-07T19:37:40Z",
+                "owner": "nitros9project",
+                "repo": "toolshed",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dasmfw",
+              "description": "DisASseMbler FrameWork",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39580749,
+                "language": "C++",
+                "last_commit": "2023-07-04T11:46:36Z",
+                "owner": "Arakula",
+                "repo": "dasmfw",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cocostress",
+              "description": "CoCo 3 RAM Stress Tester",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60487752,
+                "language": "Assembly",
+                "last_commit": "2020-04-21T22:52:06Z",
+                "owner": "richard42",
+                "repo": "cocostress",
                 "stars": 6
               }
             },
             {
               "node_type": "item",
-              "title": "SLZ Packer",
-              "description": null,
+              "title": "m6809-dev",
+              "description": "MSys2 mingw package builds for cross developing",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Forth",
-                "last_commit": "2020-07-21T03:02:27Z",
-                "owner": "beretta42",
-                "repo": "legsforth",
-                "stars": 6
+                "id": 165746925,
+                "language": "Shell",
+                "last_commit": "2026-08-09T16:24:11Z",
+                "owner": "stahta01",
+                "repo": "m6809-dev",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sgeditreborn",
+              "description": "Web based low-res screen designer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218605172,
+                "language": "JavaScript",
+                "last_commit": "2019-11-23T09:02:53Z",
+                "owner": "daftspaniel",
+                "repo": "sgeditreborn",
+                "stars": 0
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LZSA",
+                  "description": "Fast Data Decompression by Marty Emmanuel",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 178898974,
+                    "language": "C",
+                    "last_commit": "2023-12-24T17:38:48Z",
+                    "owner": "emmanuel-marty",
+                    "repo": "lzsa",
+                    "stars": 261
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ZX0",
+                  "description": "by Einar Saukas",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Salvador - Fast, near-optimal ZX0 compressor",
+                      "description": "by Emmanuel Marty",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 424258777,
+                        "language": "C",
+                        "last_commit": "2023-03-23T08:28:57Z",
+                        "owner": "emmanuel-marty",
+                        "repo": "salvador",
+                        "stars": 97
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "ZX0 6x09 Decompressor",
+                      "description": "by Doug Masten",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 345239045,
+                        "language": "Assembly",
+                        "last_commit": "2022-07-13T17:42:16Z",
+                        "owner": "dougmasten",
+                        "repo": "zx0-6x09",
+                        "stars": 11
+                      }
+                    }
+                  ],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 330422703,
+                    "language": "Assembly",
+                    "last_commit": "2023-09-24T19:01:41Z",
+                    "owner": "einar-saukas",
+                    "repo": "ZX0",
+                    "stars": 234
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "apultra",
+                  "description": "Optimal data compressor for apLib format by Marty Emmanuel",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219274557,
+                    "language": "C",
+                    "last_commit": "2023-05-16T09:06:08Z",
+                    "owner": "emmanuel-marty",
+                    "repo": "apultra",
+                    "stars": 121
+                  }
+                },
+                {
+                  "node_type": "group",
+                  "title": "SLZ",
+                  "description": "LZ77 based compression by Adisak Pochanayon",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "SLZ M6809 Depacker",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 41488685,
+                        "language": "Forth",
+                        "last_commit": "2020-07-21T03:02:27Z",
+                        "owner": "beretta42",
+                        "repo": "legsforth",
+                        "stars": 6
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "SLZ Packer",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 41488685,
+                        "language": "Forth",
+                        "last_commit": "2020-07-21T03:02:27Z",
+                        "owner": "beretta42",
+                        "repo": "legsforth",
+                        "stars": 6
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Compression"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dynosprite",
+                  "description": "Video game engine",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 26670324,
+                    "language": "Assembly",
+                    "last_commit": "2024-02-16T07:08:32Z",
+                    "owner": "richard42",
+                    "repo": "dynosprite",
+                    "stars": 27
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "BASIC-To-6809",
+                  "description": "BASIC compiler",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 834509727,
+                    "language": "Assembly",
+                    "last_commit": "2026-08-07T11:33:40Z",
+                    "owner": "nowhereman999",
+                    "repo": "BASIC-To-6809",
+                    "stars": 18
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "FP09",
+                  "description": "Floating point routines written by Motorola",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 86419868,
+                    "language": null,
+                    "last_commit": "2017-03-28T08:16:09Z",
+                    "owner": "brouhaha",
+                    "repo": "fp09",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "RSA For Color Computer",
+                  "description": "RSA key generation, encryption and decryption",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 517331750,
+                    "language": "Assembly",
+                    "last_commit": "2022-07-28T23:55:10Z",
+                    "owner": "barberd",
+                    "repo": "cocorsa",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "6809-sorting",
+                  "description": "Various sorting algorithms",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 393783989,
+                    "language": "Assembly",
+                    "last_commit": "2021-08-11T05:27:10Z",
+                    "owner": "litwr2",
+                    "repo": "6809-sorting",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CoCoDevelopmentShell",
+                  "description": "Chet Simpson's Development Shell",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 158597730,
+                    "language": "Assembly",
+                    "last_commit": "2018-11-22T18:52:39Z",
+                    "owner": "ChetSimpson",
+                    "repo": "CoCoDevelopmentShell",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "KAOS Toolkit",
+                  "description": "Toolkit for multimedia files in retro game development, by Chet Simpson",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 589751869,
+                    "language": "C++",
+                    "last_commit": "2025-05-24T16:36:46Z",
+                    "owner": "ChetSimpson",
+                    "repo": "KAOSToolkit",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "TLSF Memory Allocator",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 729758636,
+                    "language": "Assembly",
+                    "last_commit": "2024-01-27T21:03:16Z",
+                    "owner": "bhrousseau",
+                    "repo": "6809-tlsf",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Misc"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Motorola ASSIST09",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 162911059,
+                    "language": "Assembly",
+                    "last_commit": "2025-10-28T00:20:03Z",
+                    "owner": "jefftranter",
+                    "repo": "6809",
+                    "stars": 49
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "MonCoCo",
+                  "description": "NoICE Monitor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 549248626,
+                    "language": "Assembly",
+                    "last_commit": "2022-10-12T04:40:59Z",
+                    "owner": "n6il",
+                    "repo": "moncoco",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Percom PSYMON",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 467486898,
+                    "language": "Assembly",
+                    "last_commit": "2026-04-27T18:16:36Z",
+                    "owner": "JNSpears",
+                    "repo": "6809",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Monitor"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
         }
       ],
-      "title": "Compression"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dynosprite",
-          "description": "Video game engine",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2024-02-16T07:08:32Z",
-            "owner": "richard42",
-            "repo": "dynosprite",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BASIC-To-6809",
-          "description": "BASIC compiler",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2026-08-07T11:33:40Z",
-            "owner": "nowhereman999",
-            "repo": "BASIC-To-6809",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FP09",
-          "description": "Floating point routines written by Motorola",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2017-03-28T08:16:09Z",
-            "owner": "brouhaha",
-            "repo": "fp09",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RSA For Color Computer",
-          "description": "RSA key generation, encryption and decryption",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2022-07-28T23:55:10Z",
-            "owner": "barberd",
-            "repo": "cocorsa",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "6809-sorting",
-          "description": "Various sorting algorithms",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2021-08-11T05:27:10Z",
-            "owner": "litwr2",
-            "repo": "6809-sorting",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CoCoDevelopmentShell",
-          "description": "Chet Simpson's Development Shell",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2018-11-22T18:52:39Z",
-            "owner": "ChetSimpson",
-            "repo": "CoCoDevelopmentShell",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KAOS Toolkit",
-          "description": "Toolkit for multimedia files in retro game development, by Chet Simpson",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-05-24T16:36:46Z",
-            "owner": "ChetSimpson",
-            "repo": "KAOSToolkit",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TLSF Memory Allocator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2024-01-27T21:03:16Z",
-            "owner": "bhrousseau",
-            "repo": "6809-tlsf",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Misc"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Motorola ASSIST09",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2025-10-28T00:20:03Z",
-            "owner": "jefftranter",
-            "repo": "6809",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MonCoCo",
-          "description": "NoICE Monitor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2022-10-12T04:40:59Z",
-            "owner": "n6il",
-            "repo": "moncoco",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Percom PSYMON",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2026-04-27T18:16:36Z",
-            "owner": "JNSpears",
-            "repo": "6809",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Monitor"
+      "title": "Software Development"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:17:17.925Z",
+    "last_updated": "2026-08-19T12:23:04.581Z",
     "original_repository": "dougmasten/awesome-coco",
+    "original_repository_id": 131279943,
     "original_repository_sha": "38f9e4e9ba88a9e5f57cc0f48e43d1204e850b8a",
     "enhanced_repository": "enhansome/enhansome-coco",
     "enhanced_repository_description": null,
