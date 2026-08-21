@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,105 | 🐛 105 | 📅 2026-08-18 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,531 | 🐛 105 | 📅 2026-08-21 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -46,8 +46,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ## Documentation
 
-* [Undocumented 6309 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6309-Behaviours) ⭐ 23 | 🐛 1 | 🌐 C | 📅 2025-01-27 - by David Banks
-* [Undocumented 6809 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6809-Behaviours) ⭐ 23 | 🐛 1 | 🌐 C | 📅 2025-01-27 - by David Banks
+* [Undocumented 6309 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6309-Behaviours) ⭐ 24 | 🐛 1 | 🌐 C | 📅 2025-01-27 - by David Banks
+* [Undocumented 6809 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6809-Behaviours) ⭐ 24 | 🐛 1 | 🌐 C | 📅 2025-01-27 - by David Banks
 * [CoCo Graphics File Formats](https://github.com/reyco2000/CoCo-Image-Viewer/blob/main/documentation/COCO-PICS-FORMATS.md) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-04-14 - by Reinaldo Torres
 * [CoCo 3 Hardware Programming](https://www.lomont.org/software/misc/coco/Lomont_CoCoHardware.pdf)
 * [CoCo 3 Schematic](https://colorcomputerarchive.com/repo/Documents/Manuals/Hardware/Color%20Computer%203%20Revised%20Schematic%20%28Ty%20Sopko%29.pdf)
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 49 | 🐛 12 | 🌐 Assembly | 📅 2026-08-19 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 49 | 🐛 13 | 🌐 Assembly | 📅 2026-08-21 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 31 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 26 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -339,7 +339,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 #### Compression
 
 * [LZSA](https://github.com/emmanuel-marty/lzsa) ⭐ 261 | 🐛 11 | 🌐 C | 📅 2023-12-24 - Fast Data Decompression by Marty Emmanuel
-* [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 234 | 🐛 19 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
+* [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 235 | 🐛 19 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
   * [Salvador - Fast, near-optimal ZX0 compressor](https://github.com/emmanuel-marty/salvador) ⭐ 97 | 🐛 4 | 🌐 C | 📅 2023-03-23 - by Emmanuel Marty
   * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2022-07-13 - by Doug Masten
 * [apultra](https://github.com/emmanuel-marty/apultra) ⭐ 121 | 🐛 9 | 🌐 C | 📅 2023-05-16 - Optimal data compressor for apLib format by Marty Emmanuel
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

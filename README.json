@@ -15,7 +15,7 @@
             "last_commit": "2025-01-27T16:28:35Z",
             "owner": "hoglet67",
             "repo": "6809Decoder",
-            "stars": 23
+            "stars": 24
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-01-27T16:28:35Z",
             "owner": "hoglet67",
             "repo": "6809Decoder",
-            "stars": 23
+            "stars": 24
           }
         },
         {
@@ -258,7 +258,7 @@
                 "archived": false,
                 "id": 692304064,
                 "language": "Assembly",
-                "last_commit": "2026-08-19T19:27:21Z",
+                "last_commit": "2026-08-21T05:31:44Z",
                 "owner": "nitros9project",
                 "repo": "nitros9",
                 "stars": 49
@@ -963,7 +963,7 @@
                     "last_commit": "2023-09-24T19:01:41Z",
                     "owner": "einar-saukas",
                     "repo": "ZX0",
-                    "stars": 234
+                    "stars": 235
                   }
                 },
                 {
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:19:47.704Z",
+    "last_updated": "2026-08-21T15:18:35.792Z",
     "original_repository": "dougmasten/awesome-coco",
     "original_repository_id": 131279943,
     "original_repository_sha": "38f9e4e9ba88a9e5f57cc0f48e43d1204e850b8a",
