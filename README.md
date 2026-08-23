@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,881 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,176 | 🐛 106 | 📅 2026-08-21 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -152,7 +152,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 * [In-Circuit Emulator for 6809E processor](https://github.com/hoglet67/AtomBusMon) ⭐ 109 | 🐛 8 | 🌐 VHDL | 📅 2026-02-03
 * [CoCo Motherboards](https://github.com/qbancoffee/coco_motherboards) ⭐ 40 | 🐛 1 | 🌐 HTML | 📅 2025-07-20
-* [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb) ⭐ 29 | 🐛 1 | 🌐 Assembly | 📅 2025-12-31
+* [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb) ⭐ 29 | 🐛 1 | 🌐 Assembly | 📅 2026-08-23
 * [CoCo Prototyping Board](https://github.com/JayesonLS/TandyCircuitsAndLogic/tree/master/CoCoProtoBoard) ⭐ 14 | 🐛 0 | 📅 2021-05-18
 * [FlashPak](https://github.com/go4retro/FlashPak) ⭐ 12 | 🐛 0 | 🌐 Assembly | 📅 2024-05-07 - 512kB FLASH ROM Cartridge Unit
 * [CoCo Am9511 Pak](https://github.com/barberd/coco9511pak) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2024-12-08 - Arithmethic Processor Unit (AMD 9511) Cartridge by Don Barber
@@ -223,7 +223,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 #### Other platforms
 
 * [Defender](https://github.com/historicalsource/defender) ⭐ 140 | 🐛 0 | 📅 2021-01-08 - M6809 arcade game
-* [Microsoft BASIC](https://github.com/davidlinsley/DragonBasic) ⭐ 120 | 🐛 1 | 📅 2023-10-20 - Dragon 64 computer
+* [Microsoft BASIC](https://github.com/davidlinsley/DragonBasic) ⭐ 119 | 🐛 1 | 📅 2023-10-20 - Dragon 64 computer
 * [Joust](https://github.com/historicalsource/joust) ⭐ 58 | 🐛 3 | 🌐 Roff | 📅 2021-01-08 - M6809 arcade game
 * [Sinistar](https://github.com/historicalsource/sinistar) ⭐ 57 | 🐛 2 | 🌐 DIGITAL Command Language | 📅 2021-04-06 - M6809 arcade game
 * [Robotron](https://github.com/historicalsource/robotron) ⭐ 46 | 🐛 0 | 🌐 Assembly | 📅 2021-01-08 - M6809 arcade game
@@ -302,7 +302,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Emulators
 
-* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 79 | 🐛 33 | 🌐 C++ | 📅 2026-08-22 - Virtual Color Computer Emulator
+* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 79 | 🐛 32 | 🌐 C++ | 📅 2026-08-22 - Virtual Color Computer Emulator
 * [CoCo-Pi](https://github.com/mrgw454/CoCo-Pi) ⚠️ Archived - Raspberry Pi based CoCo Emulation Distribution
   * [Set up the CoCoPi and MAME to be a CoCo gaming console](https://youtu.be/sPvzXV0HqoQ)
   * [Setting up the CoCo-Pi - 11 part video series](https://www.youtube.com/watch?v=9Ui6TQsmCP0)
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

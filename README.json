@@ -95,7 +95,7 @@
                 "archived": false,
                 "id": 208386483,
                 "language": "Assembly",
-                "last_commit": "2025-12-31T14:18:31Z",
+                "last_commit": "2026-08-23T01:46:08Z",
                 "owner": "hallorant",
                 "repo": "bigmit",
                 "stars": 29
@@ -548,7 +548,7 @@
                     "last_commit": "2023-10-20T03:28:48Z",
                     "owner": "davidlinsley",
                     "repo": "DragonBasic",
-                    "stars": 120
+                    "stars": 119
                   }
                 },
                 {
@@ -1212,7 +1212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:02:53.682Z",
+    "last_updated": "2026-08-23T15:08:45.544Z",
     "original_repository": "dougmasten/awesome-coco",
     "original_repository_id": 131279943,
     "original_repository_sha": "38f9e4e9ba88a9e5f57cc0f48e43d1204e850b8a",
