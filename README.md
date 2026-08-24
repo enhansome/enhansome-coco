@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,176 | 🐛 106 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,521 | 🐛 106 | 📅 2026-08-21 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -90,10 +90,10 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### GMC - Game Master Cartridge (SN76489A Sound Chip)
 
+* [SN76489 Music Player based on CyD](https://github.com/sorchard001/cyd-gmc) ⭐ 4 | 🐛 0 | 🌐 Assembly | 📅 2018-05-06
 * [Article](https://www.vintageisthenewold.com/game-master-cartridge-enables-better-games-for-coco/)
 * [Demo Program](https://drive.google.com/file/d/1nJHDK1-_18M0ht6VB5JNOGE1ze6J8Lp2/view)
 * [Programming the Game Master Cartridge](https://drive.google.com/open?id=17JzrNqIHZaFmtHEeFSevpkJtbWOn2-2EjxMB2cQlxsY) - by John Linville
-* [SN76489 Music Player based on CyD](https://github.com/sorchard001/cyd-gmc) ⭐ 4 | 🐛 0 | 🌐 Assembly | 📅 2018-05-06
 * [SN76489 Technical Info](http://www.smspower.org/Development/SN76489)
 * [Tool Program](https://drive.google.com/file/d/1LpS0YEg0PChBnlnu2YxNZocb0eEd3xlm/view)
 * [Tutorial Programming Video Series](https://www.youtube.com/watch?v=ikxREIHVk9k) - by Mike Rowen
@@ -285,10 +285,10 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### Assembly
 
+* [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim) ⭐ 66 | 🐛 1 | 🌐 Assembly | 📅 2013-02-19
 * [Emacs](https://gitlab.com/NF6X_Retrocomputing/lwasm-mode)
 * [Notepad++](https://gist.github.com/pfiscarelli/4013e3fd743c41ffa788328fbbb4bfd9)
 * [Sublime Text](https://packagecontrol.io/packages/Assembly%206809%20and%206309%20Syntax%20Highlighting)
-* [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim) ⭐ 66 | 🐛 1 | 🌐 Assembly | 📅 2013-02-19
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=blairleduc.6x09-assembly)
 
 #### Color Basic
@@ -302,7 +302,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Emulators
 
-* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 79 | 🐛 32 | 🌐 C++ | 📅 2026-08-22 - Virtual Color Computer Emulator
+* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 79 | 🐛 33 | 🌐 C++ | 📅 2026-08-22 - Virtual Color Computer Emulator
 * [CoCo-Pi](https://github.com/mrgw454/CoCo-Pi) ⚠️ Archived - Raspberry Pi based CoCo Emulation Distribution
   * [Set up the CoCoPi and MAME to be a CoCo gaming console](https://youtu.be/sPvzXV0HqoQ)
   * [Setting up the CoCo-Pi - 11 part video series](https://www.youtube.com/watch?v=9Ui6TQsmCP0)
@@ -333,8 +333,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### Checksum
 
-* [CRC-16-CCITT](http://www.6809.org.uk/dragon/asm/crc16.s) - by Ciaran Anscomb
 * [CRC32-6x09](https://github.com/dougmasten/crc32-6x09) ⭐ 5 | 🐛 0 | 🌐 Assembly | 📅 2021-06-26 - CRC-32 Library for H6309
+* [CRC-16-CCITT](http://www.6809.org.uk/dragon/asm/crc16.s) - by Ciaran Anscomb
 
 #### Compression
 
@@ -352,7 +352,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 #### Misc
 
 * [Dynosprite](https://github.com/richard42/dynosprite) ⭐ 27 | 🐛 0 | 🌐 Assembly | 📅 2024-02-16 - Video game engine
-* [BASIC-To-6809](https://github.com/nowhereman999/BASIC-To-6809) ⭐ 18 | 🐛 9 | 🌐 Assembly | 📅 2026-08-07 - BASIC compiler
+* [BASIC-To-6809](https://github.com/nowhereman999/BASIC-To-6809) ⭐ 18 | 🐛 9 | 🌐 Assembly | 📅 2026-08-23 - BASIC compiler
 * [FP09](https://github.com/brouhaha/fp09) ⭐ 17 | 🐛 1 | 📅 2017-03-28 - Floating point routines written by Motorola
 * [RSA For Color Computer](https://github.com/barberd/cocorsa) ⭐ 14 | 🐛 0 | 🌐 Assembly | 📅 2022-07-28 - RSA key generation, encryption and decryption
 * [6809-sorting](https://github.com/litwr2/6809-sorting) ⭐ 3 | 🐛 0 | 🌐 Assembly | 📅 2021-08-11 - Various sorting algorithms
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

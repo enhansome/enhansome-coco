@@ -57,6 +57,63 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SN76489 Music Player based on CyD",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 127973461,
+                    "language": "Assembly",
+                    "last_commit": "2018-05-06T21:20:13Z",
+                    "owner": "sorchard001",
+                    "repo": "cyd-gmc",
+                    "stars": 4
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GMC - Game Master Cartridge (SN76489A Sound Chip)"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "OPL3BankEditor",
+                  "description": "Cross-platform OPL3 FM banks editor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60650926,
+                    "language": "C++",
+                    "last_commit": "2026-07-24T14:10:32Z",
+                    "owner": "Wohlstand",
+                    "repo": "OPL3BankEditor",
+                    "stars": 174
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "OPL3 - MEGA mini MPI and SDC Extender (YMF-262 Sound Chip)"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sound"
+        }
+      ],
+      "title": "Hardware"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "In-Circuit Emulator for 6809E processor",
               "description": null,
@@ -770,6 +827,57 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Vim",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1808492,
+                    "language": "Assembly",
+                    "last_commit": "2013-02-19T18:37:10Z",
+                    "owner": "74hc595",
+                    "repo": "Ultim809",
+                    "stars": 66
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Assembly"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Visual Studio Code",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 187618848,
+                    "language": null,
+                    "last_commit": "2020-10-06T21:04:14Z",
+                    "owner": "brnomade",
+                    "repo": "cmoc-integration-visual-studio-code",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "CMOC"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Editor Syntax Highlighting"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "VCC",
               "description": "Virtual Color Computer Emulator",
@@ -903,6 +1011,28 @@
         },
         {
           "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CRC32-6x09",
+                  "description": "CRC-32 Library for H6309",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 249571495,
+                    "language": "Assembly",
+                    "last_commit": "2021-06-26T08:52:46Z",
+                    "owner": "dougmasten",
+                    "repo": "crc32-6x09",
+                    "stars": 5
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Checksum"
+            },
             {
               "children": [
                 {
@@ -1049,7 +1179,7 @@
                     "archived": false,
                     "id": 834509727,
                     "language": "Assembly",
-                    "last_commit": "2026-08-07T11:33:40Z",
+                    "last_commit": "2026-08-23T19:04:56Z",
                     "owner": "nowhereman999",
                     "repo": "BASIC-To-6809",
                     "stars": 18
@@ -1212,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:08:45.544Z",
+    "last_updated": "2026-08-24T14:43:56.467Z",
     "original_repository": "dougmasten/awesome-coco",
     "original_repository_id": 131279943,
     "original_repository_sha": "38f9e4e9ba88a9e5f57cc0f48e43d1204e850b8a",
