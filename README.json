@@ -15,7 +15,7 @@
             "last_commit": "2025-01-27T16:28:35Z",
             "owner": "hoglet67",
             "repo": "6809Decoder",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2025-01-27T16:28:35Z",
             "owner": "hoglet67",
             "repo": "6809Decoder",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -315,7 +315,7 @@
                 "archived": false,
                 "id": 692304064,
                 "language": "Assembly",
-                "last_commit": "2026-08-21T16:45:12Z",
+                "last_commit": "2026-08-26T10:41:28Z",
                 "owner": "nitros9project",
                 "repo": "nitros9",
                 "stars": 49
@@ -408,7 +408,7 @@
                 "last_commit": "2021-10-05T01:44:43Z",
                 "owner": "milliluk",
                 "repo": "colormax",
-                "stars": 11
+                "stars": 12
               }
             },
             {
@@ -605,7 +605,7 @@
                     "last_commit": "2023-10-20T03:28:48Z",
                     "owner": "davidlinsley",
                     "repo": "DragonBasic",
-                    "stars": 119
+                    "stars": 118
                   }
                 },
                 {
@@ -840,7 +840,7 @@
                     "last_commit": "2013-02-19T18:37:10Z",
                     "owner": "74hc595",
                     "repo": "Ultim809",
-                    "stars": 66
+                    "stars": 65
                   }
                 }
               ],
@@ -886,7 +886,7 @@
                 "archived": false,
                 "id": 227663457,
                 "language": "C++",
-                "last_commit": "2026-08-22T00:26:14Z",
+                "last_commit": "2026-08-26T01:28:05Z",
                 "owner": "VCCE",
                 "repo": "VCC",
                 "stars": 79
@@ -926,7 +926,7 @@
                 "last_commit": "2023-07-04T11:25:45Z",
                 "owner": "Arakula",
                 "repo": "f9dasm",
-                "stars": 85
+                "stars": 86
               }
             },
             {
@@ -986,7 +986,7 @@
                 "last_commit": "2026-08-09T16:24:11Z",
                 "owner": "stahta01",
                 "repo": "m6809-dev",
-                "stars": 2
+                "stars": 3
               }
             },
             {
@@ -1047,7 +1047,7 @@
                     "last_commit": "2023-12-24T17:38:48Z",
                     "owner": "emmanuel-marty",
                     "repo": "lzsa",
-                    "stars": 261
+                    "stars": 262
                   }
                 },
                 {
@@ -1093,7 +1093,7 @@
                     "last_commit": "2023-09-24T19:01:41Z",
                     "owner": "einar-saukas",
                     "repo": "ZX0",
-                    "stars": 235
+                    "stars": 236
                   }
                 },
                 {
@@ -1294,7 +1294,7 @@
                     "last_commit": "2025-10-28T00:20:03Z",
                     "owner": "jefftranter",
                     "repo": "6809",
-                    "stars": 49
+                    "stars": 50
                   }
                 },
                 {
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:29:32.327Z",
+    "last_updated": "2026-08-26T16:06:39.067Z",
     "original_repository": "dougmasten/awesome-coco",
     "original_repository_id": 131279943,
     "original_repository_sha": "38f9e4e9ba88a9e5f57cc0f48e43d1204e850b8a",

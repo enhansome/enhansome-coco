@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,831 | 🐛 106 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,127 | 🐛 105 | 📅 2026-08-21 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -46,8 +46,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ## Documentation
 
-* [Undocumented 6309 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6309-Behaviours) ⭐ 24 | 🐛 1 | 🌐 C | 📅 2025-01-27 - by David Banks
-* [Undocumented 6809 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6809-Behaviours) ⭐ 24 | 🐛 1 | 🌐 C | 📅 2025-01-27 - by David Banks
+* [Undocumented 6309 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6309-Behaviours) ⭐ 25 | 🐛 1 | 🌐 C | 📅 2025-01-27 - by David Banks
+* [Undocumented 6809 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6809-Behaviours) ⭐ 25 | 🐛 1 | 🌐 C | 📅 2025-01-27 - by David Banks
 * [CoCo Graphics File Formats](https://github.com/reyco2000/CoCo-Image-Viewer/blob/main/documentation/COCO-PICS-FORMATS.md) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-04-14 - by Reinaldo Torres
 * [CoCo 3 Hardware Programming](https://www.lomont.org/software/misc/coco/Lomont_CoCoHardware.pdf)
 * [CoCo 3 Schematic](https://colorcomputerarchive.com/repo/Documents/Manuals/Hardware/Color%20Computer%203%20Revised%20Schematic%20%28Ty%20Sopko%29.pdf)
@@ -192,13 +192,13 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 49 | 🐛 13 | 🌐 Assembly | 📅 2026-08-21 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 49 | 🐛 12 | 🌐 Assembly | 📅 2026-08-26 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 31 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 26 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
 * [Temple of ROM](https://github.com/yggdrasilradio/templeofrom) ⭐ 21 | 🐛 0 | 🌐 Assembly | 📅 2024-06-02 - Author Rick Adams release (Disassembly by William Astle)
 * [Joust\_CoCo3](https://github.com/nowhereman999/Joust_CoCo3) ⭐ 13 | 🐛 1 | 📅 2021-09-29 - Conversion of William's arcade game by Glen Hewlett
-* [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2021-10-05 - Original source code by Erik Gavriluk and Greg Miller
+* [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) ⭐ 12 | 🐛 0 | 🌐 Assembly | 📅 2021-10-05 - Original source code by Erik Gavriluk and Greg Miller
 * [Defender\_CoCo3](https://github.com/nowhereman999/Defender_CoCo3) ⭐ 11 | 🐛 0 | 📅 2021-09-28 - Conversion of William's arcade game by Glen Hewlett
 * [Space Bandits](https://github.com/jamieleecho/space-bandits) ⭐ 10 | 🐛 1 | 🌐 C | 📅 2026-04-12 - CoCo 3 and macOS video game by Jamie Cho
 * [Ghidorah](https://github.com/boisy/ghidorah) ⭐ 9 | 🐛 3 | 🌐 Assembly | 📅 2024-06-12 - Message protocol using custom RS-232 cables
@@ -223,7 +223,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 #### Other platforms
 
 * [Defender](https://github.com/historicalsource/defender) ⭐ 140 | 🐛 0 | 📅 2021-01-08 - M6809 arcade game
-* [Microsoft BASIC](https://github.com/davidlinsley/DragonBasic) ⭐ 119 | 🐛 1 | 📅 2023-10-20 - Dragon 64 computer
+* [Microsoft BASIC](https://github.com/davidlinsley/DragonBasic) ⭐ 118 | 🐛 1 | 📅 2023-10-20 - Dragon 64 computer
 * [Joust](https://github.com/historicalsource/joust) ⭐ 58 | 🐛 3 | 🌐 Roff | 📅 2021-01-08 - M6809 arcade game
 * [Sinistar](https://github.com/historicalsource/sinistar) ⭐ 57 | 🐛 2 | 🌐 DIGITAL Command Language | 📅 2021-04-06 - M6809 arcade game
 * [Robotron](https://github.com/historicalsource/robotron) ⭐ 46 | 🐛 0 | 🌐 Assembly | 📅 2021-01-08 - M6809 arcade game
@@ -285,7 +285,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### Assembly
 
-* [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim) ⭐ 66 | 🐛 1 | 🌐 Assembly | 📅 2013-02-19
+* [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim) ⭐ 65 | 🐛 1 | 🌐 Assembly | 📅 2013-02-19
 * [Emacs](https://gitlab.com/NF6X_Retrocomputing/lwasm-mode)
 * [Notepad++](https://gist.github.com/pfiscarelli/4013e3fd743c41ffa788328fbbb4bfd9)
 * [Sublime Text](https://packagecontrol.io/packages/Assembly%206809%20and%206309%20Syntax%20Highlighting)
@@ -302,7 +302,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Emulators
 
-* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 79 | 🐛 33 | 🌐 C++ | 📅 2026-08-22 - Virtual Color Computer Emulator
+* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 79 | 🐛 33 | 🌐 C++ | 📅 2026-08-26 - Virtual Color Computer Emulator
 * [CoCo-Pi](https://github.com/mrgw454/CoCo-Pi) ⚠️ Archived - Raspberry Pi based CoCo Emulation Distribution
   * [Set up the CoCoPi and MAME to be a CoCo gaming console](https://youtu.be/sPvzXV0HqoQ)
   * [Setting up the CoCo-Pi - 11 part video series](https://www.youtube.com/watch?v=9Ui6TQsmCP0)
@@ -318,11 +318,11 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Tools
 
-* [f9dasm](https://github.com/Arakula/f9dasm) ⭐ 85 | 🐛 7 | 🌐 C | 📅 2023-07-04 - Disassembler
+* [f9dasm](https://github.com/Arakula/f9dasm) ⭐ 86 | 🐛 7 | 🌐 C | 📅 2023-07-04 - Disassembler
 * [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 16 | 🐛 2 | 🌐 C | 📅 2026-08-07 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 16 | 🐛 2 | 🌐 C | 📅 2026-08-07
 * [dasmfw](https://github.com/Arakula/dasmfw) ⭐ 14 | 🐛 11 | 🌐 C++ | 📅 2023-07-04 - DisASseMbler FrameWork
 * [cocostress](https://github.com/richard42/cocostress) ⭐ 6 | 🐛 1 | 🌐 Assembly | 📅 2020-04-21 - CoCo 3 RAM Stress Tester
-* [m6809-dev](https://github.com/stahta01/m6809-dev) ⭐ 2 | 🐛 0 | 🌐 Shell | 📅 2026-08-09 - MSys2 mingw package builds for cross developing
+* [m6809-dev](https://github.com/stahta01/m6809-dev) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-08-09 - MSys2 mingw package builds for cross developing
 * [sgeditreborn](https://github.com/daftspaniel/sgeditreborn) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2019-11-23 - Web based low-res screen designer
 * [File2DSK](http://www.chipple.net/coco/file2dsk/) - Command line utility to copy BAS/BIN files to a DSK virtual disk
 * [dmk2sdf](https://goo.gl/q61D6s) - Command line tool to convert DMK images to SDF format. Includes source code.
@@ -338,8 +338,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### Compression
 
-* [LZSA](https://github.com/emmanuel-marty/lzsa) ⭐ 261 | 🐛 11 | 🌐 C | 📅 2023-12-24 - Fast Data Decompression by Marty Emmanuel
-* [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 235 | 🐛 19 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
+* [LZSA](https://github.com/emmanuel-marty/lzsa) ⭐ 262 | 🐛 11 | 🌐 C | 📅 2023-12-24 - Fast Data Decompression by Marty Emmanuel
+* [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 236 | 🐛 19 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
   * [Salvador - Fast, near-optimal ZX0 compressor](https://github.com/emmanuel-marty/salvador) ⭐ 97 | 🐛 4 | 🌐 C | 📅 2023-03-23 - by Emmanuel Marty
   * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2022-07-13 - by Doug Masten
 * [apultra](https://github.com/emmanuel-marty/apultra) ⭐ 121 | 🐛 9 | 🌐 C | 📅 2023-05-16 - Optimal data compressor for apLib format by Marty Emmanuel
@@ -362,7 +362,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### Monitor
 
-* [Motorola ASSIST09](https://github.com/jefftranter/6809/tree/master/sbc/assist09) ⭐ 49 | 🐛 1 | 🌐 Assembly | 📅 2025-10-28
+* [Motorola ASSIST09](https://github.com/jefftranter/6809/tree/master/sbc/assist09) ⭐ 50 | 🐛 1 | 🌐 Assembly | 📅 2025-10-28
 * [MonCoCo](https://github.com/n6il/moncoco) ⭐ 2 | 🐛 1 | 🌐 Assembly | 📅 2022-10-12 - NoICE Monitor
 * [Percom PSYMON](https://github.com/JNSpears/6809/tree/main/percom) ⭐ 2 | 🐛 0 | 🌐 Assembly | 📅 2026-04-27
 
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
