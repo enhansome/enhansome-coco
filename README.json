@@ -89,7 +89,7 @@
                     "archived": false,
                     "id": 60650926,
                     "language": "C++",
-                    "last_commit": "2026-07-24T14:10:32Z",
+                    "last_commit": "2026-08-26T21:03:33Z",
                     "owner": "Wohlstand",
                     "repo": "OPL3BankEditor",
                     "stars": 174
@@ -315,7 +315,7 @@
                 "archived": false,
                 "id": 692304064,
                 "language": "Assembly",
-                "last_commit": "2026-08-26T10:41:28Z",
+                "last_commit": "2026-08-27T03:01:37Z",
                 "owner": "nitros9project",
                 "repo": "nitros9",
                 "stars": 49
@@ -1342,9 +1342,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:06:39.067Z",
-    "original_repository": "dougmasten/awesome-coco",
-    "original_repository_id": 131279943,
+    "last_updated": "2026-08-27T11:30:43.122Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 131279943,
+      "language": "Just",
+      "last_commit": "2026-06-25T06:47:02Z",
+      "owner": "dougmasten",
+      "repo": "awesome-coco",
+      "stars": 89
+    },
     "original_repository_sha": "38f9e4e9ba88a9e5f57cc0f48e43d1204e850b8a",
     "enhanced_repository": "enhansome/enhansome-coco",
     "enhanced_repository_description": null,
