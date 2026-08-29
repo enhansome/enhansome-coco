@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "6809 / 6309 Protocol Decoder (for logic analysis capture files)",
+            "homepage": null,
             "id": 504446491,
             "language": "C",
+            "license": null,
             "last_commit": "2025-01-27T16:28:35Z",
+            "open_issues": 1,
             "owner": "hoglet67",
             "repo": "6809Decoder",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.301Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "6809 / 6309 Protocol Decoder (for logic analysis capture files)",
+            "homepage": null,
             "id": 504446491,
             "language": "C",
+            "license": null,
             "last_commit": "2025-01-27T16:28:35Z",
+            "open_issues": 1,
             "owner": "hoglet67",
             "repo": "6809Decoder",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.301Z"
         },
@@ -42,12 +52,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python script to view  MAX, CM3, CLP, MGE, MAC, PCX, and GIF image stored on Tandy Color Computer disk images .DSK",
+            "homepage": "https://github.com/reyco2000/CoCo-Image-Viewer",
             "id": 1087863424,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-14T01:08:43Z",
+            "open_issues": 0,
             "owner": "reyco2000",
             "repo": "CoCo-Image-Viewer",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "cm3",
+              "coco",
+              "cocomax",
+              "color-computer",
+              "colormax",
+              "max",
+              "mge",
+              "tandy-coco",
+              "trs-80"
+            ]
           },
           "first_seen": "2026-08-28T23:43:10.301Z"
         }
@@ -68,12 +93,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SN76489 music player based on CyD",
+                    "homepage": null,
                     "id": 127973461,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2018-05-06T21:20:13Z",
+                    "open_issues": 0,
                     "owner": "sorchard001",
                     "repo": "cyd-gmc",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 }
@@ -91,12 +121,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A small cross-platform editor of the OPL3 FM banks of different formats (Downloads in README below)",
+                    "homepage": null,
                     "id": 60650926,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T14:56:41Z",
+                    "open_issues": 24,
                     "owner": "Wohlstand",
                     "repo": "OPL3BankEditor",
-                    "stars": 174
+                    "stars": 174,
+                    "topics": [
+                      "ail",
+                      "bank-format",
+                      "bnk",
+                      "ibk",
+                      "ins",
+                      "op2",
+                      "op3",
+                      "opl",
+                      "opl3-bank-editor",
+                      "opl3-emulator",
+                      "opl3-fm-banks",
+                      "sbi",
+                      "tmb",
+                      "ymf262"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 }
@@ -125,12 +175,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This project is an open-source In-Circuit Emulator for the 6502, 65C02, Z80, 6809 and 6809E 8-bit processors.  See: ",
+                "homepage": "https://github.com/hoglet67/AtomBusMon/wiki",
                 "id": 37012109,
                 "language": "VHDL",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-03T11:53:16Z",
+                "open_issues": 8,
                 "owner": "hoglet67",
                 "repo": "AtomBusMon",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -141,12 +196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains KiCAD schematics and board designs for the TRS-80 Tandy Color Computers.",
+                "homepage": null,
                 "id": 511745488,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-20T12:18:08Z",
+                "open_issues": 1,
                 "owner": "qbancoffee",
                 "repo": "coco_motherboards",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -157,12 +217,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Retro computing code for the TRS-80. Mostly z80 assembly language.",
+                "homepage": null,
                 "id": 208386483,
                 "language": "Assembly",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T01:46:08Z",
+                "open_issues": 1,
                 "owner": "hallorant",
                 "repo": "bigmit",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -173,12 +238,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Circuits and programmable Logic for use with Tandy computers.",
+                "homepage": null,
                 "id": 58847368,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2021-05-18T13:17:08Z",
+                "open_issues": 0,
                 "owner": "JayesonLS",
                 "repo": "TandyCircuitsAndLogic",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "coco",
+                  "tandy",
+                  "tandy-color-computer",
+                  "tandy1000"
+                ]
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -189,12 +264,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "512kB FLASH ROM Cartridge for the TANDY Color Computer and Dragon Data Dragon System",
+                "homepage": null,
                 "id": 245071162,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2024-05-07T04:43:26Z",
+                "open_issues": 0,
                 "owner": "go4retro",
                 "repo": "FlashPak",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -205,12 +285,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 591360239,
                 "language": "Assembly",
+                "license": "GPL-3.0",
                 "last_commit": "2024-12-08T01:14:33Z",
+                "open_issues": 0,
                 "owner": "barberd",
                 "repo": "coco9511pak",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -221,12 +306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A board that replaces the functionality of the SC77526 DAC chip in the Tandy CoCo's",
+                "homepage": null,
                 "id": 429621026,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2023-02-24T03:04:19Z",
+                "open_issues": 0,
                 "owner": "qbancoffee",
                 "repo": "coco_daiquiri",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -237,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for early testing of FujiNet PCB's for the Tandy Color Computer",
+                "homepage": null,
                 "id": 742278968,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-02-03T21:37:57Z",
+                "open_issues": 1,
                 "owner": "djtersteegc",
                 "repo": "Coco-FujiNet",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -253,12 +348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A hardware keyboard encoder for the TRS-80 Color Computer",
+                "homepage": null,
                 "id": 257383688,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2021-10-27T02:24:18Z",
+                "open_issues": 1,
                 "owner": "wyndec",
                 "repo": "CoCoKeys2USB",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -269,12 +369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TRS-80 Color Computer Joystick to USB adapter",
+                "homepage": null,
                 "id": 307813987,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-02-07T20:19:00Z",
+                "open_issues": 1,
                 "owner": "wyndec",
                 "repo": "CoCoJoy2USB",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -285,12 +390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tandy CoCo Joystick Adapter:  Digital to Analog Joystick Circuit",
+                "homepage": null,
                 "id": 655308014,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-06-18T14:40:09Z",
+                "open_issues": 0,
                 "owner": "GadgetReboot",
                 "repo": "D_A_CoCo_Joystick_Adapter",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -301,12 +411,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Development Cartridge for the TRS80 Color Computer",
+                "homepage": null,
                 "id": 63240319,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2022-02-01T22:22:56Z",
+                "open_issues": 0,
                 "owner": "topherCantrell",
                 "repo": "retro-CoCoC64DevCart",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "cartridge",
+                  "color-computer"
+                ]
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             }
@@ -330,12 +448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NitrOS-9 Operating System",
+                "homepage": null,
                 "id": 692304064,
                 "language": "Assembly",
-                "last_commit": "2026-08-28T22:59:08Z",
+                "license": null,
+                "last_commit": "2026-08-29T04:39:15Z",
+                "open_issues": 13,
                 "owner": "nitros9project",
                 "repo": "nitros9",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -346,12 +469,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TRS-80 Color Computer ROM source code",
+                "homepage": null,
                 "id": 175299265,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2024-03-20T01:24:45Z",
+                "open_issues": 0,
                 "owner": "tomctomc",
                 "repo": "coco_roms",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -362,12 +490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Apple II emulator written for the Tandy Color Computer 3",
+                "homepage": null,
                 "id": 589379575,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2024-02-20T23:34:37Z",
+                "open_issues": 0,
                 "owner": "dragonbytes",
                 "repo": "Apple2CoCo",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -378,12 +511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Original source code for the 1982 game Dungeons of Daggorath for the TRS-80 Color Computer",
+                "homepage": null,
                 "id": 452404138,
                 "language": "Assembly",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-14T04:19:43Z",
+                "open_issues": 21,
                 "owner": "MichaelSpencerJr",
                 "repo": "DungeonsOfDaggorath",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -394,12 +532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Temple of ROM II",
+                "homepage": null,
                 "id": 209674375,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2024-06-02T19:50:52Z",
+                "open_issues": 0,
                 "owner": "yggdrasilradio",
                 "repo": "templeofrom",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -410,12 +553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Files associated with my port of the arcade game Joust to the CoCo 3",
+                "homepage": null,
                 "id": 315103737,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-09-29T02:34:34Z",
+                "open_issues": 1,
                 "owner": "nowhereman999",
                 "repo": "Joust_CoCo3",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -426,12 +574,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Original 6809 assembly language source code for Color Max Deluxe. Released 1987 for the TRS-80 Color Computer 3.",
+                "homepage": null,
                 "id": 64563781,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2021-10-05T01:44:43Z",
+                "open_issues": 0,
                 "owner": "milliluk",
                 "repo": "colormax",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -442,12 +595,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Files associated with my conversion of the arcade game Defender to the CoCo 3",
+                "homepage": null,
                 "id": 410272764,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-09-28T17:47:59Z",
+                "open_issues": 0,
                 "owner": "nowhereman999",
                 "repo": "Defender_CoCo3",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -458,12 +616,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CoCo 3 and macOS shoot 'em up video game based on Richard Goedeken's Dynosprite.",
+                "homepage": null,
                 "id": 28780264,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-12T17:00:11Z",
+                "open_issues": 1,
                 "owner": "jamieleecho",
                 "repo": "space-bandits",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -474,12 +637,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A single arbiter, multiple listener topology and protocol for passing information between computers.",
+                "homepage": null,
                 "id": 309188813,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2024-06-12T04:18:42Z",
+                "open_issues": 3,
                 "owner": "DrPitre",
                 "repo": "ghidorah",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -490,12 +658,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zenix and Crystal City source code + CocoDisk",
+                "homepage": null,
                 "id": 157092732,
                 "language": "Visual Basic",
+                "license": "MIT",
                 "last_commit": "2018-11-11T15:29:29Z",
+                "open_issues": 0,
                 "owner": "gosub-com",
                 "repo": "Coco",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -506,12 +679,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Color Computer 3 port of Shanghai",
+                "homepage": null,
                 "id": 228271602,
                 "language": "BASIC",
+                "license": null,
                 "last_commit": "2025-05-06T10:19:47Z",
+                "open_issues": 0,
                 "owner": "yggdrasilradio",
                 "repo": "shanghai",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -522,12 +700,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An archive of the original Color TRSDOS source code for the Tandy Color Computer, plus a new command line shell built around it.",
+                "homepage": null,
                 "id": 1276087759,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2026-07-24T01:49:04Z",
+                "open_issues": 0,
                 "owner": "DarkChocoholicDev",
                 "repo": "ColorTRSDOS",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -538,12 +721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A disassembly of the 1981 Semigraphics version of Audio Spectrum Analyzer program pak written by Steve Bjork for the Color Computer.",
+                "homepage": null,
                 "id": 1026669533,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2025-07-26T11:12:12Z",
+                "open_issues": 0,
                 "owner": "ChetSimpson",
                 "repo": "CoCo-AudioSpectrumAnalyzer",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -554,12 +742,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository of information from the development of the Star Spores assembly-language game for the TRS-80 Color Computer in 1983/84",
+                "homepage": null,
                 "id": 281815268,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2024-02-05T01:01:59Z",
+                "open_issues": 0,
                 "owner": "dshadoff",
                 "repo": "Star-Spores_CoCo",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -570,12 +763,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Color Computer 3 terminal program",
+                "homepage": null,
                 "id": 211528547,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2019-09-28T16:26:17Z",
+                "open_issues": 0,
                 "owner": "yggdrasilradio",
                 "repo": "delphiterm",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -586,12 +784,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reverse enginerring Downland for the Tandy Color Computer",
+                "homepage": null,
                 "id": 908035738,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2025-06-13T20:33:52Z",
+                "open_issues": 0,
                 "owner": "pw32x",
                 "repo": "Downland_RE",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -602,12 +805,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "6809 version of Google's T-Rex Run",
+                "homepage": null,
                 "id": 220804206,
                 "language": "Assembly",
+                "license": "MIT",
                 "last_commit": "2023-09-21T22:51:57Z",
+                "open_issues": 1,
                 "owner": "pfiscarelli",
                 "repo": "Run-Dino-Run",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -620,12 +828,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A shooting, moving, people-saving, ship-exploding game",
+                    "homepage": null,
                     "id": 327776774,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-01-08T02:23:49Z",
+                    "open_issues": 0,
                     "owner": "historicalsource",
                     "repo": "defender",
-                    "stars": 140
+                    "stars": 140,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -636,12 +849,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains the source code for the Dragon 64 versions of the Microsoft 16K BASIC Interpreter for the Motorola 6809 (aka BASIC-69 and Extended Color BASIC).",
+                    "homepage": null,
                     "id": 572364148,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2023-10-20T03:28:48Z",
+                    "open_issues": 1,
                     "owner": "davidlinsley",
                     "repo": "DragonBasic",
-                    "stars": 118
+                    "stars": 118,
+                    "topics": [
+                      "6809-assembly",
+                      "basic",
+                      "microsoft",
+                      "microsoft-basic",
+                      "motorola-6809",
+                      "tandy-color-computer"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -652,12 +877,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A flapping, flying, bouncing, lava and platform game.",
+                    "homepage": null,
                     "id": 327771769,
                     "language": "Roff",
+                    "license": null,
                     "last_commit": "2021-01-08T02:14:13Z",
+                    "open_issues": 3,
                     "owner": "historicalsource",
                     "repo": "joust",
-                    "stars": 58
+                    "stars": 58,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -668,12 +898,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A shooting, space-flying, avoiding-the-scary-space-monster game",
+                    "homepage": null,
                     "id": 354170480,
                     "language": "DIGITAL Command Language",
+                    "license": null,
                     "last_commit": "2021-04-06T16:04:26Z",
+                    "open_issues": 2,
                     "owner": "historicalsource",
                     "repo": "sinistar",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -684,12 +919,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A double-joysticked, shooting, avoiding, crowded future game.",
+                    "homepage": null,
                     "id": 327777524,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2021-01-08T02:27:40Z",
+                    "open_issues": 0,
                     "owner": "historicalsource",
                     "repo": "robotron",
-                    "stars": 46
+                    "stars": 46,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -700,12 +940,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A space game",
+                    "homepage": null,
                     "id": 417383727,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-10-15T05:55:21Z",
+                    "open_issues": 1,
                     "owner": "historicalsource",
                     "repo": "star-wars",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -716,12 +961,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A shooting, exploding, transporting, alien fighting game.",
+                    "homepage": null,
                     "id": 327778115,
                     "language": null,
+                    "license": null,
                     "last_commit": "2021-01-08T02:30:50Z",
+                    "open_issues": 0,
                     "owner": "historicalsource",
                     "repo": "stargate",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 }
@@ -750,12 +1000,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Implementation of DriveWire 4",
+                "homepage": null,
                 "id": 52760966,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-23T20:50:06Z",
+                "open_issues": 7,
                 "owner": "n6il",
                 "repo": "pyDriveWire",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -766,12 +1021,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official home of DriveWire.",
+                "homepage": null,
                 "id": 702529693,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2026-07-28T09:10:27Z",
+                "open_issues": 3,
                 "owner": "DrPitre",
                 "repo": "DriveWire",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -782,12 +1042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official home of DriveWire.",
+                "homepage": null,
                 "id": 702529693,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2026-07-28T09:10:27Z",
+                "open_issues": 3,
                 "owner": "DrPitre",
                 "repo": "DriveWire",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -798,12 +1063,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The official DriveWire Server for macOS",
+                "homepage": null,
                 "id": 34047996,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2023-09-28T01:09:13Z",
+                "open_issues": 1,
                 "owner": "DrPitre",
                 "repo": "drivewire-mac",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -814,12 +1084,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A DriveWire server for Unix-based systems.",
+                "homepage": null,
                 "id": 116531487,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-11-13T23:15:16Z",
+                "open_issues": 0,
                 "owner": "DrPitre",
                 "repo": "drivewire-unix",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -830,12 +1105,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DriveWire server for Windows",
+                "homepage": null,
                 "id": 220635380,
                 "language": "Pascal",
+                "license": null,
                 "last_commit": "2019-11-09T11:56:54Z",
+                "open_issues": 0,
                 "owner": "DrPitre",
                 "repo": "drivewire-win",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             }
@@ -859,12 +1139,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simplified environment for developing Tandy Color Computer applications",
+                "homepage": null,
                 "id": 115841109,
                 "language": "Dockerfile",
+                "license": null,
                 "last_commit": "2026-08-14T15:53:43Z",
+                "open_issues": 0,
                 "owner": "jamieleecho",
                 "repo": "coco-dev",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             }
@@ -884,12 +1169,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Schematics, design files, and software for my Ultim809 homebrew 8-bit computer.",
+                    "homepage": "http://msarnoff.org/6809",
                     "id": 1808492,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2013-02-19T18:37:10Z",
+                    "open_issues": 1,
                     "owner": "74hc595",
                     "repo": "Ultim809",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 }
@@ -907,12 +1197,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Integration of CMOC (a Tandy Colour Computer C compiler) with Microsft Visual Studio Code IDE",
+                    "homepage": null,
                     "id": 187618848,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-10-06T21:04:14Z",
+                    "open_issues": 0,
                     "owner": "brnomade",
                     "repo": "cmoc-integration-visual-studio-code",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 }
@@ -935,12 +1230,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tandy Color Computer 3 Emulator",
+                "homepage": null,
                 "id": 227663457,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T01:28:05Z",
+                "open_issues": 34,
                 "owner": "VCCE",
                 "repo": "VCC",
-                "stars": 79
+                "stars": 79,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -951,12 +1251,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "CoCo-Pi Project",
+                "homepage": null,
                 "id": 391392338,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2023-10-20T15:49:42Z",
+                "open_issues": 0,
                 "owner": "mrgw454",
                 "repo": "CoCo-Pi",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             }
@@ -974,12 +1279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "6800/6801/6809/6309 Disassembler",
+                "homepage": null,
                 "id": 37939702,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2023-07-04T11:25:45Z",
+                "open_issues": 7,
                 "owner": "Arakula",
                 "repo": "f9dasm",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -990,12 +1300,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of software tools for TRS-80 Color Computer hobbyists.",
+                "homepage": null,
                 "id": 691338838,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-08-07T19:37:40Z",
+                "open_issues": 2,
                 "owner": "nitros9project",
                 "repo": "toolshed",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "retrocomputing"
+                ]
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -1006,12 +1323,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The DisASseMbler FrameWork",
+                "homepage": null,
                 "id": 39580749,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2023-07-04T11:46:36Z",
+                "open_issues": 11,
                 "owner": "Arakula",
                 "repo": "dasmfw",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -1022,12 +1344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CoCo3 RAM Stress Tester, for TRS-80 Color Computer 3",
+                "homepage": null,
                 "id": 60487752,
                 "language": "Assembly",
+                "license": "GPL-3.0",
                 "last_commit": "2020-04-21T22:52:06Z",
+                "open_issues": 1,
                 "owner": "richard42",
                 "repo": "cocostress",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -1038,12 +1365,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MSys2 and MinGW build packages for cross developing for Radio Shack Color Computer",
+                "homepage": null,
                 "id": 165746925,
                 "language": "Shell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-09T16:24:11Z",
+                "open_issues": 0,
                 "owner": "stahta01",
                 "repo": "m6809-dev",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "6809-assembler",
+                  "6809-assembly",
+                  "6809-emulator",
+                  "cmoc-c-compiler",
+                  "msys2-mingw",
+                  "pkgbuild",
+                  "tandy-color-computer",
+                  "xroar"
+                ]
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             },
@@ -1054,12 +1395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 218605172,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2019-11-23T09:02:53Z",
+                "open_issues": 0,
                 "owner": "daftspaniel",
                 "repo": "sgeditreborn",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
             }
@@ -1079,12 +1425,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CRC-32 Library for the Hitachi 6309 CPU",
+                    "homepage": null,
                     "id": 249571495,
                     "language": "Assembly",
+                    "license": "MIT",
                     "last_commit": "2021-06-26T08:52:46Z",
+                    "open_issues": 0,
                     "owner": "dougmasten",
                     "repo": "crc32-6x09",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": [
+                      "6309",
+                      "assembly",
+                      "coco",
+                      "crc-32",
+                      "tandy-color-computer"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 }
@@ -1102,12 +1459,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Byte-aligned, efficient lossless packer that is optimized for fast decompression on 8-bit micros",
+                    "homepage": null,
                     "id": 178898974,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-12-24T17:38:48Z",
+                    "open_issues": 11,
                     "owner": "emmanuel-marty",
                     "repo": "lzsa",
-                    "stars": 262
+                    "stars": 262,
+                    "topics": [
+                      "6309",
+                      "6502",
+                      "6809",
+                      "8-bit",
+                      "8088",
+                      "assembler",
+                      "c",
+                      "c64",
+                      "compression",
+                      "ibm-pc",
+                      "retrocomputing",
+                      "suffix-array",
+                      "z80",
+                      "zx-spectrum"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -1123,12 +1500,29 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A free, open-source compressor for the ZX0 format",
+                        "homepage": null,
                         "id": 424258777,
                         "language": "C",
+                        "license": "NOASSERTION",
                         "last_commit": "2023-03-23T08:28:57Z",
+                        "open_issues": 4,
                         "owner": "emmanuel-marty",
                         "repo": "salvador",
-                        "stars": 97
+                        "stars": 97,
+                        "topics": [
+                          "8-bit",
+                          "amiga",
+                          "amstrad-cpc",
+                          "atari",
+                          "atari-st",
+                          "c",
+                          "c64",
+                          "compression",
+                          "compression-algorithm",
+                          "zx-spectrum",
+                          "zx0"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:43:10.301Z"
                     },
@@ -1139,24 +1533,44 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A Motorola 6809 and Hitachi 6309 CPU decompressor for the ZX0 data compression format by Einar Saukas.",
+                        "homepage": null,
                         "id": 345239045,
                         "language": "Assembly",
+                        "license": "Zlib",
                         "last_commit": "2022-07-13T17:42:16Z",
+                        "open_issues": 0,
                         "owner": "dougmasten",
                         "repo": "zx0-6x09",
-                        "stars": 11
+                        "stars": 11,
+                        "topics": [
+                          "6309",
+                          "6809",
+                          "assembly",
+                          "coco",
+                          "zx0"
+                        ]
                       },
                       "first_seen": "2026-08-28T23:43:10.301Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": "Data compressor for 8-bit computers and low-end platforms",
+                    "homepage": null,
                     "id": 330422703,
                     "language": "Assembly",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2023-09-24T19:01:41Z",
+                    "open_issues": 19,
                     "owner": "einar-saukas",
                     "repo": "ZX0",
-                    "stars": 236
+                    "stars": 236,
+                    "topics": [
+                      "compression",
+                      "compressor",
+                      "data-compression"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -1167,12 +1581,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Free open-source compressor for apLib with 5-7% better ratios",
+                    "homepage": null,
                     "id": 219274557,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-05-16T09:06:08Z",
+                    "open_issues": 9,
                     "owner": "emmanuel-marty",
                     "repo": "apultra",
-                    "stars": 121
+                    "stars": 121,
+                    "topics": [
+                      "6309",
+                      "6502",
+                      "68000",
+                      "6809",
+                      "8-bit",
+                      "8088",
+                      "amiga",
+                      "amstrad-cpc",
+                      "aplib",
+                      "aplib-format",
+                      "arm",
+                      "atari-st",
+                      "c",
+                      "c64",
+                      "compression",
+                      "compression-algorithm",
+                      "gameboy",
+                      "retrocomputing",
+                      "z80",
+                      "zx-spectrum"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -1188,12 +1628,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Automatically exported from code.google.com/p/legsforth",
+                        "homepage": null,
                         "id": 41488685,
                         "language": "Forth",
+                        "license": "GPL-3.0",
                         "last_commit": "2020-07-21T03:02:27Z",
+                        "open_issues": 1,
                         "owner": "beretta42",
                         "repo": "legsforth",
-                        "stars": 6
+                        "stars": 6,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:43:10.301Z"
                     },
@@ -1204,12 +1649,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Automatically exported from code.google.com/p/legsforth",
+                        "homepage": null,
                         "id": 41488685,
                         "language": "Forth",
+                        "license": "GPL-3.0",
                         "last_commit": "2020-07-21T03:02:27Z",
+                        "open_issues": 1,
                         "owner": "beretta42",
                         "repo": "legsforth",
-                        "stars": 6
+                        "stars": 6,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T23:43:10.301Z"
                     }
@@ -1229,12 +1679,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sophisticated video game engine for Tandy Color Computer 3",
+                    "homepage": null,
                     "id": 26670324,
                     "language": "Assembly",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-02-16T07:08:32Z",
+                    "open_issues": 0,
                     "owner": "richard42",
                     "repo": "dynosprite",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -1245,12 +1700,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A BASIC compiler for the TRS80 Color Computer",
+                    "homepage": null,
                     "id": 834509727,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2026-08-23T19:04:56Z",
+                    "open_issues": 9,
                     "owner": "nowhereman999",
                     "repo": "BASIC-To-6809",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": [
+                      "6809",
+                      "assembly",
+                      "basic",
+                      "compiler"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -1261,12 +1726,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Motorola MC6839 floating point firmware for MC6809 microprocessor",
+                    "homepage": null,
                     "id": 86419868,
                     "language": null,
+                    "license": null,
                     "last_commit": "2017-03-28T08:16:09Z",
+                    "open_issues": 1,
                     "owner": "brouhaha",
                     "repo": "fp09",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -1277,12 +1747,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of RSA for the Tandy/Radio Shack TRS-80 Color Computer including key generation, encryption, and decryption",
+                    "homepage": null,
                     "id": 517331750,
                     "language": "Assembly",
+                    "license": "GPL-3.0",
                     "last_commit": "2022-07-28T23:55:10Z",
+                    "open_issues": 0,
                     "owner": "barberd",
                     "repo": "cocorsa",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -1293,12 +1768,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "implementations of various sorting algos for the 6809",
+                    "homepage": null,
                     "id": 393783989,
                     "language": "Assembly",
+                    "license": "GPL-2.0",
                     "last_commit": "2021-08-11T05:27:10Z",
+                    "open_issues": 0,
                     "owner": "litwr2",
                     "repo": "6809-sorting",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -1309,12 +1789,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CoCo Development Shell V1.0 Beta",
+                    "homepage": null,
                     "id": 158597730,
                     "language": "Assembly",
+                    "license": "MIT",
                     "last_commit": "2018-11-22T18:52:39Z",
+                    "open_issues": 0,
                     "owner": "ChetSimpson",
                     "repo": "CoCoDevelopmentShell",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -1325,12 +1810,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The KAOS Toolkit for Retro Game Development",
+                    "homepage": null,
                     "id": 589751869,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2025-05-24T16:36:46Z",
+                    "open_issues": 0,
                     "owner": "ChetSimpson",
                     "repo": "KAOSToolkit",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -1341,12 +1831,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "TLSF (Two Level Segregated Fit) implementation for Motorola 6809 processor",
+                    "homepage": null,
                     "id": 729758636,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2024-01-27T21:03:16Z",
+                    "open_issues": 0,
                     "owner": "bhrousseau",
                     "repo": "6809-tlsf",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 }
@@ -1364,12 +1859,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Files and programs related to the Motorola 6809 microprocessor.",
+                    "homepage": null,
                     "id": 162911059,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2025-10-28T00:20:03Z",
+                    "open_issues": 1,
                     "owner": "jefftranter",
                     "repo": "6809",
-                    "stars": 50
+                    "stars": 50,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -1380,12 +1880,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "NoICE Monitor for TRS-80/Tandy Color Computer 1 and 2",
+                    "homepage": null,
                     "id": 549248626,
                     "language": "Assembly",
+                    "license": null,
                     "last_commit": "2022-10-12T04:40:59Z",
+                    "open_issues": 1,
                     "owner": "n6il",
                     "repo": "moncoco",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 },
@@ -1396,12 +1901,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Misc mc6809 code for Percom based SS-50 systems.",
+                    "homepage": null,
                     "id": 467486898,
                     "language": "Assembly",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-27T18:16:36Z",
+                    "open_issues": 0,
                     "owner": "JNSpears",
                     "repo": "6809",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
                 }
@@ -1420,15 +1930,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:43:10.301Z",
+    "last_updated": "2026-08-29T05:03:19.651Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
+      "homepage": null,
       "id": 131279943,
       "language": "Just",
+      "license": "CC0-1.0",
       "last_commit": "2026-06-25T06:47:02Z",
+      "open_issues": 0,
       "owner": "dougmasten",
       "repo": "awesome-coco",
-      "stars": 89
+      "stars": 89,
+      "topics": [
+        "6309",
+        "6809",
+        "assembly",
+        "awesome",
+        "awesome-list",
+        "coco",
+        "game-development",
+        "retro",
+        "retrogaming",
+        "tandy"
+      ]
     },
     "original_repository_sha": "38f9e4e9ba88a9e5f57cc0f48e43d1204e850b8a",
     "enhanced_repository": "enhansome/enhansome-coco",
