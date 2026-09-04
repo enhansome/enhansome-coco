@@ -259,6 +259,27 @@
             },
             {
               "node_type": "item",
+              "title": "CoCo Am9511 Pak",
+              "description": "Arithmethic Processor Unit (AMD 9511) Cartridge by Don Barber",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 591360239,
+                "language": "Assembly",
+                "license": "GPL-3.0",
+                "last_commit": "2024-12-08T01:14:33Z",
+                "open_issues": 0,
+                "owner": "barberd",
+                "repo": "coco9511pak",
+                "stars": 12,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T23:43:10.301Z"
+            },
+            {
+              "node_type": "item",
               "title": "FlashPak",
               "description": "512kB FLASH ROM Cartridge Unit",
               "children": [],
@@ -274,27 +295,6 @@
                 "owner": "go4retro",
                 "repo": "FlashPak",
                 "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T23:43:10.301Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CoCo Am9511 Pak",
-              "description": "Arithmethic Processor Unit (AMD 9511) Cartridge by Don Barber",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 591360239,
-                "language": "Assembly",
-                "license": "GPL-3.0",
-                "last_commit": "2024-12-08T01:14:33Z",
-                "open_issues": 0,
-                "owner": "barberd",
-                "repo": "coco9511pak",
-                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
@@ -453,7 +453,7 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-09-03T17:22:55Z",
+                "last_commit": "2026-09-04T02:17:26Z",
                 "open_issues": 13,
                 "owner": "nitros9project",
                 "repo": "nitros9",
@@ -907,7 +907,7 @@
                     "open_issues": 2,
                     "owner": "historicalsource",
                     "repo": "sinistar",
-                    "stars": 57,
+                    "stars": 58,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
@@ -1144,7 +1144,7 @@
                 "id": 115841109,
                 "language": "Dockerfile",
                 "license": null,
-                "last_commit": "2026-08-14T15:53:43Z",
+                "last_commit": "2026-09-04T09:39:28Z",
                 "open_issues": 0,
                 "owner": "jamieleecho",
                 "repo": "coco-dev",
@@ -1236,7 +1236,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-03T18:00:53Z",
-                "open_issues": 33,
+                "open_issues": 37,
                 "owner": "VCCE",
                 "repo": "VCC",
                 "stars": 80,
@@ -1705,7 +1705,7 @@
                     "id": 834509727,
                     "language": "Assembly",
                     "license": null,
-                    "last_commit": "2026-09-01T20:09:19Z",
+                    "last_commit": "2026-09-04T16:50:19Z",
                     "open_issues": 9,
                     "owner": "nowhereman999",
                     "repo": "BASIC-To-6809",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:07:57.396Z",
+    "last_updated": "2026-09-04T17:50:47.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
