@@ -453,7 +453,7 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-09-05T14:28:10Z",
+                "last_commit": "2026-09-06T06:38:20Z",
                 "open_issues": 13,
                 "owner": "nitros9project",
                 "repo": "nitros9",
@@ -1236,7 +1236,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-03T18:00:53Z",
-                "open_issues": 39,
+                "open_issues": 42,
                 "owner": "VCCE",
                 "repo": "VCC",
                 "stars": 80,
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:58:01.872Z",
+    "last_updated": "2026-09-06T17:22:20.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
