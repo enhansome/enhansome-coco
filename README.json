@@ -1235,8 +1235,8 @@
                 "id": 227663457,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-13T05:26:46Z",
-                "open_issues": 41,
+                "last_commit": "2026-09-16T18:39:18Z",
+                "open_issues": 39,
                 "owner": "VCCE",
                 "repo": "VCC",
                 "stars": 80,
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:29:12.898Z",
+    "last_updated": "2026-09-17T18:37:39.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
