@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,434 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,795 | 🐛 106 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -46,8 +46,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ## Documentation
 
-* [Undocumented 6309 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6309-Behaviours) ⭐ 25 | 🐛 1 | 🌐 C | 📅 2025-01-27 - by David Banks
-* [Undocumented 6809 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6809-Behaviours) ⭐ 25 | 🐛 1 | 🌐 C | 📅 2025-01-27 - by David Banks
+* [Undocumented 6309 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6309-Behaviours) ⭐ 26 | 🐛 1 | 🌐 C | 📅 2025-01-27 - by David Banks
+* [Undocumented 6809 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6809-Behaviours) ⭐ 26 | 🐛 1 | 🌐 C | 📅 2025-01-27 - by David Banks
 * [CoCo Graphics File Formats](https://github.com/reyco2000/CoCo-Image-Viewer/blob/main/documentation/COCO-PICS-FORMATS.md) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-04-14 - by Reinaldo Torres
 * [CoCo 3 Hardware Programming](https://www.lomont.org/software/misc/coco/Lomont_CoCoHardware.pdf)
 * [CoCo 3 Schematic](https://colorcomputerarchive.com/repo/Documents/Manuals/Hardware/Color%20Computer%203%20Revised%20Schematic%20%28Ty%20Sopko%29.pdf)
@@ -278,7 +278,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Development Environment
 
-* [Docker](https://github.com/jamieleecho/coco-dev) ⭐ 21 | 🐛 0 | 🌐 Dockerfile | 📅 2026-09-07 - Simplified environment using docker images
+* [Docker](https://github.com/jamieleecho/coco-dev) ⭐ 21 | 🐛 0 | 🌐 Dockerfile | 📅 2026-09-19 - Simplified environment using docker images
 * [Atom](https://github.com/mrgw454/AtomDevEnv) - Atom editor development environment
 
 ### Editor Syntax Highlighting
@@ -338,7 +338,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### Compression
 
-* [LZSA](https://github.com/emmanuel-marty/lzsa) ⭐ 260 | 🐛 11 | 🌐 C | 📅 2023-12-24 - Fast Data Decompression by Marty Emmanuel
+* [LZSA](https://github.com/emmanuel-marty/lzsa) ⭐ 261 | 🐛 11 | 🌐 C | 📅 2023-12-24 - Fast Data Decompression by Marty Emmanuel
 * [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 239 | 🐛 20 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
   * [Salvador - Fast, near-optimal ZX0 compressor](https://github.com/emmanuel-marty/salvador) ⭐ 98 | 🐛 4 | 🌐 C | 📅 2023-03-23 - by Emmanuel Marty
   * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2022-07-13 - by Doug Masten
@@ -352,7 +352,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 #### Misc
 
 * [Dynosprite](https://github.com/richard42/dynosprite) ⭐ 27 | 🐛 0 | 🌐 Assembly | 📅 2024-02-16 - Video game engine
-* [BASIC-To-6809](https://github.com/nowhereman999/BASIC-To-6809) ⭐ 19 | 🐛 9 | 🌐 Assembly | 📅 2026-09-04 - BASIC compiler
+* [BASIC-To-6809](https://github.com/nowhereman999/BASIC-To-6809) ⭐ 19 | 🐛 9 | 🌐 Assembly | 📅 2026-09-19 - BASIC compiler
 * [FP09](https://github.com/brouhaha/fp09) ⭐ 17 | 🐛 1 | 📅 2017-03-28 - Floating point routines written by Motorola
 * [RSA For Color Computer](https://github.com/barberd/cocorsa) ⭐ 14 | 🐛 0 | 🌐 Assembly | 📅 2022-07-28 - RSA key generation, encryption and decryption
 * [6809-sorting](https://github.com/litwr2/6809-sorting) ⭐ 3 | 🐛 0 | 🌐 Assembly | 📅 2021-08-11 - Various sorting algorithms
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
