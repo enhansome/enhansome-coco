@@ -181,7 +181,7 @@
                 "language": "VHDL",
                 "license": "GPL-3.0",
                 "last_commit": "2026-02-03T11:53:16Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "hoglet67",
                 "repo": "AtomBusMon",
                 "stars": 109,
@@ -1239,7 +1239,7 @@
                 "open_issues": 39,
                 "owner": "VCCE",
                 "repo": "VCC",
-                "stars": 80,
+                "stars": 81,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:44:10.380Z",
+    "last_updated": "2026-09-21T19:45:17.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
