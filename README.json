@@ -127,7 +127,7 @@
                     "language": "C++",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-08T06:55:35Z",
-                    "open_issues": 24,
+                    "open_issues": 25,
                     "owner": "Wohlstand",
                     "repo": "OPL3BankEditor",
                     "stars": 174,
@@ -453,7 +453,7 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-09-22T00:26:00Z",
+                "last_commit": "2026-09-23T18:41:08Z",
                 "open_issues": 16,
                 "owner": "nitros9project",
                 "repo": "nitros9",
@@ -1236,7 +1236,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-16T18:39:18Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "VCCE",
                 "repo": "VCC",
                 "stars": 81,
@@ -1509,7 +1509,7 @@
                         "open_issues": 4,
                         "owner": "emmanuel-marty",
                         "repo": "salvador",
-                        "stars": 98,
+                        "stars": 100,
                         "topics": [
                           "8-bit",
                           "amiga",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T18:21:50.924Z",
+    "last_updated": "2026-09-23T18:41:08.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
