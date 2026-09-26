@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,363 | 🐛 107 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,866 | 🐛 107 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -150,7 +150,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Hardware Designs
 
-* [In-Circuit Emulator for 6809E processor](https://github.com/hoglet67/AtomBusMon) ⭐ 109 | 🐛 9 | 🌐 VHDL | 📅 2026-02-03
+* [In-Circuit Emulator for 6809E processor](https://github.com/hoglet67/AtomBusMon) ⭐ 109 | 🐛 8 | 🌐 VHDL | 📅 2026-02-03
 * [CoCo Motherboards](https://github.com/qbancoffee/coco_motherboards) ⭐ 40 | 🐛 1 | 🌐 HTML | 📅 2025-07-20
 * [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb) ⭐ 29 | 🐛 1 | 🌐 Assembly | 📅 2026-09-07
 * [CoCo Prototyping Board](https://github.com/JayesonLS/TandyCircuitsAndLogic/tree/master/CoCoProtoBoard) ⭐ 14 | 🐛 0 | 📅 2021-05-18
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 51 | 🐛 17 | 🌐 Assembly | 📅 2026-09-25 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 51 | 🐛 16 | 🌐 Assembly | 📅 2026-09-26 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 31 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 27 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -302,7 +302,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Emulators
 
-* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 81 | 🐛 39 | 🌐 C++ | 📅 2026-09-24 - Virtual Color Computer Emulator
+* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 81 | 🐛 38 | 🌐 C++ | 📅 2026-09-26 - Virtual Color Computer Emulator
 * [CoCo-Pi](https://github.com/mrgw454/CoCo-Pi) ⚠️ Archived - Raspberry Pi based CoCo Emulation Distribution
   * [Set up the CoCoPi and MAME to be a CoCo gaming console](https://youtu.be/sPvzXV0HqoQ)
   * [Setting up the CoCo-Pi - 11 part video series](https://www.youtube.com/watch?v=9Ui6TQsmCP0)
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
