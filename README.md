@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,866 | 🐛 107 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,376 | 🐛 106 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -152,7 +152,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 * [In-Circuit Emulator for 6809E processor](https://github.com/hoglet67/AtomBusMon) ⭐ 109 | 🐛 8 | 🌐 VHDL | 📅 2026-02-03
 * [CoCo Motherboards](https://github.com/qbancoffee/coco_motherboards) ⭐ 40 | 🐛 1 | 🌐 HTML | 📅 2025-07-20
-* [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb) ⭐ 29 | 🐛 1 | 🌐 Assembly | 📅 2026-09-07
+* [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb) ⭐ 29 | 🐛 1 | 🌐 Assembly | 📅 2026-09-27
 * [CoCo Prototyping Board](https://github.com/JayesonLS/TandyCircuitsAndLogic/tree/master/CoCoProtoBoard) ⭐ 14 | 🐛 0 | 📅 2021-05-18
 * [CoCo Am9511 Pak](https://github.com/barberd/coco9511pak) ⭐ 12 | 🐛 0 | 🌐 Assembly | 📅 2024-12-08 - Arithmethic Processor Unit (AMD 9511) Cartridge by Don Barber
 * [FlashPak](https://github.com/go4retro/FlashPak) ⭐ 12 | 🐛 0 | 🌐 Assembly | 📅 2024-05-07 - 512kB FLASH ROM Cartridge Unit
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 51 | 🐛 16 | 🌐 Assembly | 📅 2026-09-26 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 51 | 🐛 16 | 🌐 Assembly | 📅 2026-09-27 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 31 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 27 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -200,7 +200,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 * [Joust\_CoCo3](https://github.com/nowhereman999/Joust_CoCo3) ⭐ 13 | 🐛 1 | 📅 2021-09-29 - Conversion of William's arcade game by Glen Hewlett
 * [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) ⭐ 12 | 🐛 0 | 🌐 Assembly | 📅 2021-10-05 - Original source code by Erik Gavriluk and Greg Miller
 * [Defender\_CoCo3](https://github.com/nowhereman999/Defender_CoCo3) ⭐ 11 | 🐛 0 | 📅 2021-09-28 - Conversion of William's arcade game by Glen Hewlett
-* [Space Bandits](https://github.com/jamieleecho/space-bandits) ⭐ 10 | 🐛 1 | 🌐 C | 📅 2026-04-12 - CoCo 3 and macOS video game by Jamie Cho
+* [Space Bandits](https://github.com/jamieleecho/space-bandits) ⭐ 10 | 🐛 1 | 🌐 C | 📅 2026-09-27 - CoCo 3 and macOS video game by Jamie Cho
 * [Ghidorah](https://github.com/boisy/ghidorah) ⭐ 9 | 🐛 3 | 🌐 Assembly | 📅 2024-06-12 - Message protocol using custom RS-232 cables
 * [Zenix and Crystal City](https://github.com/gosub-com/Coco) ⭐ 9 | 🐛 0 | 🌐 Visual Basic | 📅 2018-11-11 - Original source code by Jeremy Spiller
 * [Shanghai](https://github.com/yggdrasilradio/shanghai) ⭐ 8 | 🐛 0 | 🌐 BASIC | 📅 2025-05-06 - Original source code by Rick Adams
@@ -339,7 +339,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 #### Compression
 
 * [LZSA](https://github.com/emmanuel-marty/lzsa) ⭐ 261 | 🐛 11 | 🌐 C | 📅 2023-12-24 - Fast Data Decompression by Marty Emmanuel
-* [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 240 | 🐛 20 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
+* [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 240 | 🐛 19 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
   * [Salvador - Fast, near-optimal ZX0 compressor](https://github.com/emmanuel-marty/salvador) ⭐ 100 | 🐛 4 | 🌐 C | 📅 2023-03-23 - by Emmanuel Marty
   * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2022-07-13 - by Doug Masten
 * [apultra](https://github.com/emmanuel-marty/apultra) ⭐ 121 | 🐛 9 | 🌐 C | 📅 2023-05-16 - Optimal data compressor for apLib format by Marty Emmanuel
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
