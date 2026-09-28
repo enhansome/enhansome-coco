@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,376 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,952 | 🐛 106 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -105,7 +105,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### OPL3 - MEGA mini MPI and SDC Extender (YMF-262 Sound Chip)
 
-* [OPL3BankEditor](https://github.com/Wohlstand/OPL3BankEditor) ⭐ 174 | 🐛 25 | 🌐 C++ | 📅 2026-09-08 - Cross-platform OPL3 FM banks editor
+* [OPL3BankEditor](https://github.com/Wohlstand/OPL3BankEditor) ⭐ 174 | 🐛 25 | 🌐 C++ | 📅 2026-09-28 - Cross-platform OPL3 FM banks editor
 * [Programmer's Guide to Yamaha YMF 262/OPL3 FM Music Synthesizer](https://www.fit.vutbr.cz/~arnost/opl/opl3.html)
 * [Programming the OPL3 with the Color Computer](https://thezippsterzone.com/2018/12/01/programming-the-opl3-chip-with-the-color-computer/)
 
@@ -152,7 +152,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 * [In-Circuit Emulator for 6809E processor](https://github.com/hoglet67/AtomBusMon) ⭐ 109 | 🐛 8 | 🌐 VHDL | 📅 2026-02-03
 * [CoCo Motherboards](https://github.com/qbancoffee/coco_motherboards) ⭐ 40 | 🐛 1 | 🌐 HTML | 📅 2025-07-20
-* [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb) ⭐ 29 | 🐛 1 | 🌐 Assembly | 📅 2026-09-27
+* [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb) ⭐ 29 | 🐛 1 | 🌐 Assembly | 📅 2026-09-28
 * [CoCo Prototyping Board](https://github.com/JayesonLS/TandyCircuitsAndLogic/tree/master/CoCoProtoBoard) ⭐ 14 | 🐛 0 | 📅 2021-05-18
 * [CoCo Am9511 Pak](https://github.com/barberd/coco9511pak) ⭐ 12 | 🐛 0 | 🌐 Assembly | 📅 2024-12-08 - Arithmethic Processor Unit (AMD 9511) Cartridge by Don Barber
 * [FlashPak](https://github.com/go4retro/FlashPak) ⭐ 12 | 🐛 0 | 🌐 Assembly | 📅 2024-05-07 - 512kB FLASH ROM Cartridge Unit
@@ -340,7 +340,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 * [LZSA](https://github.com/emmanuel-marty/lzsa) ⭐ 261 | 🐛 11 | 🌐 C | 📅 2023-12-24 - Fast Data Decompression by Marty Emmanuel
 * [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 240 | 🐛 19 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
-  * [Salvador - Fast, near-optimal ZX0 compressor](https://github.com/emmanuel-marty/salvador) ⭐ 100 | 🐛 4 | 🌐 C | 📅 2023-03-23 - by Emmanuel Marty
+  * [Salvador - Fast, near-optimal ZX0 compressor](https://github.com/emmanuel-marty/salvador) ⭐ 101 | 🐛 4 | 🌐 C | 📅 2023-03-23 - by Emmanuel Marty
   * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2022-07-13 - by Doug Masten
 * [apultra](https://github.com/emmanuel-marty/apultra) ⭐ 121 | 🐛 9 | 🌐 C | 📅 2023-05-16 - Optimal data compressor for apLib format by Marty Emmanuel
 * [Exomizer](https://bitbucket.org/magli143/exomizer/wiki/Home) - Packing tool by Magnus Lind
@@ -353,7 +353,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 * [Dynosprite](https://github.com/richard42/dynosprite) ⭐ 27 | 🐛 0 | 🌐 Assembly | 📅 2024-02-16 - Video game engine
 * [BASIC-To-6809](https://github.com/nowhereman999/BASIC-To-6809) ⭐ 19 | 🐛 9 | 🌐 Assembly | 📅 2026-09-19 - BASIC compiler
-* [FP09](https://github.com/brouhaha/fp09) ⭐ 17 | 🐛 1 | 📅 2017-03-28 - Floating point routines written by Motorola
+* [FP09](https://github.com/brouhaha/fp09) ⭐ 18 | 🐛 1 | 📅 2017-03-28 - Floating point routines written by Motorola
 * [RSA For Color Computer](https://github.com/barberd/cocorsa) ⭐ 14 | 🐛 0 | 🌐 Assembly | 📅 2022-07-28 - RSA key generation, encryption and decryption
 * [6809-sorting](https://github.com/litwr2/6809-sorting) ⭐ 3 | 🐛 0 | 🌐 Assembly | 📅 2021-08-11 - Various sorting algorithms
 * [CoCoDevelopmentShell](https://github.com/ChetSimpson/CoCoDevelopmentShell) ⭐ 3 | 🐛 0 | 🌐 Assembly | 📅 2018-11-22 - Chet Simpson's Development Shell
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
