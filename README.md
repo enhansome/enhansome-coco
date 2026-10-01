@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,814 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,213 | 🐛 106 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 51 | 🐛 19 | 🌐 Assembly | 📅 2026-09-30 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 51 | 🐛 17 | 🌐 Assembly | 📅 2026-10-01 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 31 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 27 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -322,7 +322,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 * [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 17 | 🐛 2 | 🌐 C | 📅 2026-08-29 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 17 | 🐛 2 | 🌐 C | 📅 2026-08-29
 * [dasmfw](https://github.com/Arakula/dasmfw) ⭐ 14 | 🐛 11 | 🌐 C++ | 📅 2023-07-04 - DisASseMbler FrameWork
 * [cocostress](https://github.com/richard42/cocostress) ⭐ 6 | 🐛 1 | 🌐 Assembly | 📅 2020-04-21 - CoCo 3 RAM Stress Tester
-* [m6809-dev](https://github.com/stahta01/m6809-dev) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-08-09 - MSys2 mingw package builds for cross developing
+* [m6809-dev](https://github.com/stahta01/m6809-dev) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-10-01 - MSys2 mingw package builds for cross developing
 * [sgeditreborn](https://github.com/daftspaniel/sgeditreborn) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2019-11-23 - Web based low-res screen designer
 * [File2DSK](http://www.chipple.net/coco/file2dsk/) - Command line utility to copy BAS/BIN files to a DSK virtual disk
 * [dmk2sdf](https://goo.gl/q61D6s) - Command line tool to convert DMK images to SDF format. Includes source code.
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
