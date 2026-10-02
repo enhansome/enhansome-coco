@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,213 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,671 | 🐛 106 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -150,7 +150,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Hardware Designs
 
-* [In-Circuit Emulator for 6809E processor](https://github.com/hoglet67/AtomBusMon) ⭐ 109 | 🐛 8 | 🌐 VHDL | 📅 2026-02-03
+* [In-Circuit Emulator for 6809E processor](https://github.com/hoglet67/AtomBusMon) ⭐ 108 | 🐛 8 | 🌐 VHDL | 📅 2026-02-03
 * [CoCo Motherboards](https://github.com/qbancoffee/coco_motherboards) ⭐ 40 | 🐛 1 | 🌐 HTML | 📅 2025-07-20
 * [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb) ⭐ 29 | 🐛 1 | 🌐 Assembly | 📅 2026-09-28
 * [CoCo Prototyping Board](https://github.com/JayesonLS/TandyCircuitsAndLogic/tree/master/CoCoProtoBoard) ⭐ 14 | 🐛 0 | 📅 2021-05-18
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 51 | 🐛 17 | 🌐 Assembly | 📅 2026-10-01 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 51 | 🐛 18 | 🌐 Assembly | 📅 2026-10-02 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 31 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 27 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -352,7 +352,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 #### Misc
 
 * [Dynosprite](https://github.com/richard42/dynosprite) ⭐ 27 | 🐛 0 | 🌐 Assembly | 📅 2024-02-16 - Video game engine
-* [BASIC-To-6809](https://github.com/nowhereman999/BASIC-To-6809) ⭐ 19 | 🐛 9 | 🌐 Assembly | 📅 2026-09-19 - BASIC compiler
+* [BASIC-To-6809](https://github.com/nowhereman999/BASIC-To-6809) ⭐ 20 | 🐛 10 | 🌐 Assembly | 📅 2026-09-19 - BASIC compiler
 * [FP09](https://github.com/brouhaha/fp09) ⭐ 18 | 🐛 1 | 📅 2017-03-28 - Floating point routines written by Motorola
 * [RSA For Color Computer](https://github.com/barberd/cocorsa) ⭐ 14 | 🐛 0 | 🌐 Assembly | 📅 2022-07-28 - RSA key generation, encryption and decryption
 * [6809-sorting](https://github.com/litwr2/6809-sorting) ⭐ 3 | 🐛 0 | 🌐 Assembly | 📅 2021-08-11 - Various sorting algorithms
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

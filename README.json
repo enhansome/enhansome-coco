@@ -184,7 +184,7 @@
                 "open_issues": 8,
                 "owner": "hoglet67",
                 "repo": "AtomBusMon",
-                "stars": 109,
+                "stars": 108,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
@@ -453,8 +453,8 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-01T00:25:51Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-02T19:00:06Z",
+                "open_issues": 18,
                 "owner": "nitros9project",
                 "repo": "nitros9",
                 "stars": 51,
@@ -1706,10 +1706,10 @@
                     "language": "Assembly",
                     "license": null,
                     "last_commit": "2026-09-19T12:45:34Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "nowhereman999",
                     "repo": "BASIC-To-6809",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": [
                       "6809",
                       "assembly",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:54:35.744Z",
+    "last_updated": "2026-10-02T19:34:28.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
