@@ -453,7 +453,7 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-02T21:12:32Z",
+                "last_commit": "2026-10-03T17:49:54Z",
                 "open_issues": 19,
                 "owner": "nitros9project",
                 "repo": "nitros9",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:36:51.657Z",
+    "last_updated": "2026-10-03T18:20:26.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
