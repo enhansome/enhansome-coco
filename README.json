@@ -89,7 +89,7 @@
                 {
                   "node_type": "item",
                   "title": "SN76489 Music Player based on CyD",
-                  "description": null,
+                  "description": "sorchard001/cyd-gmc",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -171,7 +171,7 @@
             {
               "node_type": "item",
               "title": "In-Circuit Emulator for 6809E processor",
-              "description": null,
+              "description": "hoglet67/AtomBusMon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -192,7 +192,7 @@
             {
               "node_type": "item",
               "title": "CoCo Motherboards",
-              "description": null,
+              "description": "qbancoffee/coco_motherboards",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -213,7 +213,7 @@
             {
               "node_type": "item",
               "title": "CoCo 2 USB Power Mod",
-              "description": null,
+              "description": "hallorant/bigmit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -234,7 +234,7 @@
             {
               "node_type": "item",
               "title": "CoCo Prototyping Board",
-              "description": null,
+              "description": "JayesonLS/TandyCircuitsAndLogic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -302,7 +302,7 @@
             {
               "node_type": "item",
               "title": "CoCo Daiquiri - Replacement board for the SC77527P DAC Chip",
-              "description": null,
+              "description": "qbancoffee/coco_daiquiri",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -344,7 +344,7 @@
             {
               "node_type": "item",
               "title": "Hardware Keyboard Encoder",
-              "description": null,
+              "description": "wyndec/CoCoKeys2USB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -365,7 +365,7 @@
             {
               "node_type": "item",
               "title": "CoCo Joystick to USB adapter",
-              "description": null,
+              "description": "wyndec/CoCoJoy2USB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -386,7 +386,7 @@
             {
               "node_type": "item",
               "title": "Digital to Analog Joystick Circuit",
-              "description": null,
+              "description": "GadgetReboot/D_A_CoCo_Joystick_Adapter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -407,7 +407,7 @@
             {
               "node_type": "item",
               "title": "Development Cartridge",
-              "description": null,
+              "description": "topherCantrell/retro-CoCoC64DevCart",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -453,8 +453,8 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-02T19:00:06Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-02T21:12:32Z",
+                "open_issues": 19,
                 "owner": "nitros9project",
                 "repo": "nitros9",
                 "stars": 51,
@@ -622,7 +622,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-27T11:37:52Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "jamieleecho",
                 "repo": "space-bandits",
                 "stars": 10,
@@ -1017,7 +1017,7 @@
             {
               "node_type": "item",
               "title": "DriveWire Official Home",
-              "description": null,
+              "description": "DrPitre/DriveWire",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1038,7 +1038,7 @@
             {
               "node_type": "item",
               "title": "DriveWire Specification",
-              "description": null,
+              "description": "DrPitre/DriveWire",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1059,7 +1059,7 @@
             {
               "node_type": "item",
               "title": "DriveWire 3 Server for Mac",
-              "description": null,
+              "description": "DrPitre/drivewire-mac",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1080,7 +1080,7 @@
             {
               "node_type": "item",
               "title": "DriveWire 3 Server for Linux",
-              "description": null,
+              "description": "DrPitre/drivewire-unix",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1101,7 +1101,7 @@
             {
               "node_type": "item",
               "title": "DriveWire 3 Server for Windows",
-              "description": null,
+              "description": "DrPitre/drivewire-win",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1165,7 +1165,7 @@
                 {
                   "node_type": "item",
                   "title": "Vim",
-                  "description": null,
+                  "description": "74hc595/Ultim809",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1193,7 +1193,7 @@
                 {
                   "node_type": "item",
                   "title": "Visual Studio Code",
-                  "description": null,
+                  "description": "brnomade/cmoc-integration-visual-studio-code",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1624,7 +1624,7 @@
                     {
                       "node_type": "item",
                       "title": "SLZ M6809 Depacker",
-                      "description": null,
+                      "description": "beretta42/legsforth",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1645,7 +1645,7 @@
                     {
                       "node_type": "item",
                       "title": "SLZ Packer",
-                      "description": null,
+                      "description": "beretta42/legsforth",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1706,10 +1706,10 @@
                     "language": "Assembly",
                     "license": null,
                     "last_commit": "2026-09-19T12:45:34Z",
-                    "open_issues": 10,
+                    "open_issues": 9,
                     "owner": "nowhereman999",
                     "repo": "BASIC-To-6809",
-                    "stars": 20,
+                    "stars": 19,
                     "topics": [
                       "6809",
                       "assembly",
@@ -1827,7 +1827,7 @@
                 {
                   "node_type": "item",
                   "title": "TLSF Memory Allocator",
-                  "description": null,
+                  "description": "bhrousseau/6809-tlsf",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1855,7 +1855,7 @@
                 {
                   "node_type": "item",
                   "title": "Motorola ASSIST09",
-                  "description": null,
+                  "description": "jefftranter/6809",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1897,7 +1897,7 @@
                 {
                   "node_type": "item",
                   "title": "Percom PSYMON",
-                  "description": null,
+                  "description": "JNSpears/6809",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:34:28.687Z",
+    "last_updated": "2026-10-03T04:36:51.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
