@@ -453,7 +453,7 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-06T02:57:15Z",
+                "last_commit": "2026-10-07T19:00:17Z",
                 "open_issues": 19,
                 "owner": "nitros9project",
                 "repo": "nitros9",
@@ -520,7 +520,7 @@
                 "open_issues": 21,
                 "owner": "MichaelSpencerJr",
                 "repo": "DungeonsOfDaggorath",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
@@ -1509,7 +1509,7 @@
                         "open_issues": 4,
                         "owner": "emmanuel-marty",
                         "repo": "salvador",
-                        "stars": 101,
+                        "stars": 102,
                         "topics": [
                           "8-bit",
                           "amiga",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:52:22.129Z",
+    "last_updated": "2026-10-07T20:13:32.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
