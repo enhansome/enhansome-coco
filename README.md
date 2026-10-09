@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,283 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,709 | 🐛 106 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 51 | 🐛 20 | 🌐 Assembly | 📅 2026-10-08 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 51 | 🐛 21 | 🌐 Assembly | 📅 2026-10-09 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 31 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 29 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -302,7 +302,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Emulators
 
-* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 82 | 🐛 40 | 🌐 C++ | 📅 2026-09-26 - Virtual Color Computer Emulator
+* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 82 | 🐛 42 | 🌐 C++ | 📅 2026-09-26 - Virtual Color Computer Emulator
 * [CoCo-Pi](https://github.com/mrgw454/CoCo-Pi) ⚠️ Archived - Raspberry Pi based CoCo Emulation Distribution
   * [Set up the CoCoPi and MAME to be a CoCo gaming console](https://youtu.be/sPvzXV0HqoQ)
   * [Setting up the CoCo-Pi - 11 part video series](https://www.youtube.com/watch?v=9Ui6TQsmCP0)
@@ -338,7 +338,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### Compression
 
-* [LZSA](https://github.com/emmanuel-marty/lzsa) ⭐ 261 | 🐛 11 | 🌐 C | 📅 2023-12-24 - Fast Data Decompression by Marty Emmanuel
+* [LZSA](https://github.com/emmanuel-marty/lzsa) ⭐ 262 | 🐛 11 | 🌐 C | 📅 2023-12-24 - Fast Data Decompression by Marty Emmanuel
 * [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 240 | 🐛 19 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
   * [Salvador - Fast, near-optimal ZX0 compressor](https://github.com/emmanuel-marty/salvador) ⭐ 102 | 🐛 4 | 🌐 C | 📅 2023-03-23 - by Emmanuel Marty
   * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2022-07-13 - by Doug Masten
@@ -362,7 +362,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### Monitor
 
-* [Motorola ASSIST09](https://github.com/jefftranter/6809/tree/master/sbc/assist09) ⭐ 50 | 🐛 1 | 🌐 Assembly | 📅 2025-10-28
+* [Motorola ASSIST09](https://github.com/jefftranter/6809/tree/master/sbc/assist09) ⭐ 50 | 🐛 1 | 🌐 Assembly | 📅 2026-10-09
 * [MonCoCo](https://github.com/n6il/moncoco) ⭐ 2 | 🐛 1 | 🌐 Assembly | 📅 2022-10-12 - NoICE Monitor
 * [Percom PSYMON](https://github.com/JNSpears/6809/tree/main/percom) ⭐ 2 | 🐛 0 | 🌐 Assembly | 📅 2026-04-27
 
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
