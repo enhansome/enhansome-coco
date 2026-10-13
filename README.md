@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,141 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 518,601 | 🐛 105 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 51 | 🐛 21 | 🌐 Assembly | 📅 2026-10-12 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 51 | 🐛 18 | 🌐 Assembly | 📅 2026-10-13 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 31 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 29 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -226,7 +226,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 * [Microsoft BASIC](https://github.com/davidlinsley/DragonBasic) ⭐ 119 | 🐛 1 | 📅 2023-10-20 - Dragon 64 computer
 * [Joust](https://github.com/historicalsource/joust) ⭐ 59 | 🐛 3 | 🌐 Roff | 📅 2021-01-08 - M6809 arcade game
 * [Sinistar](https://github.com/historicalsource/sinistar) ⭐ 58 | 🐛 2 | 🌐 DIGITAL Command Language | 📅 2021-04-06 - M6809 arcade game
-* [Robotron](https://github.com/historicalsource/robotron) ⭐ 47 | 🐛 0 | 🌐 Assembly | 📅 2021-01-08 - M6809 arcade game
+* [Robotron](https://github.com/historicalsource/robotron) ⭐ 48 | 🐛 0 | 🌐 Assembly | 📅 2021-01-08 - M6809 arcade game
 * [Star-Wars](https://github.com/historicalsource/star-wars) ⭐ 45 | 🐛 1 | 📅 2021-10-15 - M6809 arcade game
 * [Stargate](https://github.com/historicalsource/stargate) ⭐ 41 | 🐛 0 | 📅 2021-01-08 - M6809 arcade game
 
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
