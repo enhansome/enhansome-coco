@@ -907,7 +907,7 @@
                     "open_issues": 2,
                     "owner": "historicalsource",
                     "repo": "sinistar",
-                    "stars": 58,
+                    "stars": 59,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:59:25.946Z",
+    "last_updated": "2026-10-15T18:42:33.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
