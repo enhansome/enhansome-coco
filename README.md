@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,416 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,855 | 🐛 105 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -208,7 +208,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 * [Audio Spectrum Analyzer](https://github.com/ChetSimpson/CoCo-AudioSpectrumAnalyzer) ⭐ 5 | 🐛 0 | 🌐 Assembly | 📅 2025-07-26 - Disassembly by Chet Simpson
 * [Star Spores](https://github.com/dshadoff/Star-Spores_CoCo) ⭐ 5 | 🐛 0 | 🌐 Assembly | 📅 2024-02-05 - Original source code by Dave Shadoff
 * [Delphiterm](https://github.com/yggdrasilradio/delphiterm) ⭐ 3 | 🐛 0 | 🌐 Assembly | 📅 2019-09-28 - Original source code by Rick Adams
-* [Downland](https://github.com/pw32x/Downland_RE) ⭐ 2 | 🐛 0 | 🌐 Assembly | 📅 2025-06-13 - Downland V1.1 disassembly
+* [Downland](https://github.com/pw32x/Downland_RE) ⭐ 3 | 🐛 0 | 🌐 Assembly | 📅 2025-06-13 - Downland V1.1 disassembly
 * [Run-Dino-Run](https://github.com/pfiscarelli/Run-Dino-Run) ⭐ 2 | 🐛 1 | 🌐 Assembly | 📅 2023-09-21 - Original source code by Paul Fiscarelli
 * [Bedlam](https://www.computerarcheology.com/CoCo/Bedlam/) - Disassembly
 * [Dunjunz](https://gitlab.com/sixxie/dunjunz) - Original source code by Ciaran Anscomb
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
