@@ -454,7 +454,7 @@
                 "language": "Assembly",
                 "license": null,
                 "last_commit": "2026-10-19T18:38:02Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "nitros9project",
                 "repo": "nitros9",
                 "stars": 51,
@@ -1562,7 +1562,7 @@
                     "language": "Assembly",
                     "license": "BSD-3-Clause",
                     "last_commit": "2023-09-24T19:01:41Z",
-                    "open_issues": 19,
+                    "open_issues": 20,
                     "owner": "einar-saukas",
                     "repo": "ZX0",
                     "stars": 242,
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T18:46:35.508Z",
+    "last_updated": "2026-10-21T18:59:38.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
