@@ -130,7 +130,7 @@
                     "open_issues": 25,
                     "owner": "Wohlstand",
                     "repo": "OPL3BankEditor",
-                    "stars": 174,
+                    "stars": 175,
                     "topics": [
                       "ail",
                       "bank-format",
@@ -499,7 +499,7 @@
                 "open_issues": 0,
                 "owner": "dragonbytes",
                 "repo": "Apple2CoCo",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
@@ -1178,7 +1178,7 @@
                     "open_issues": 1,
                     "owner": "74hc595",
                     "repo": "Ultim809",
-                    "stars": 65,
+                    "stars": 66,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:53:26.456Z",
+    "last_updated": "2026-10-23T18:45:30.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",

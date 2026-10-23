@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 522,942 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,556 | 🐛 105 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -105,7 +105,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### OPL3 - MEGA mini MPI and SDC Extender (YMF-262 Sound Chip)
 
-* [OPL3BankEditor](https://github.com/Wohlstand/OPL3BankEditor) ⭐ 174 | 🐛 25 | 🌐 C++ | 📅 2026-09-28 - Cross-platform OPL3 FM banks editor
+* [OPL3BankEditor](https://github.com/Wohlstand/OPL3BankEditor) ⭐ 175 | 🐛 25 | 🌐 C++ | 📅 2026-09-28 - Cross-platform OPL3 FM banks editor
 * [Programmer's Guide to Yamaha YMF 262/OPL3 FM Music Synthesizer](https://www.fit.vutbr.cz/~arnost/opl/opl3.html)
 * [Programming the OPL3 with the Color Computer](https://thezippsterzone.com/2018/12/01/programming-the-opl3-chip-with-the-color-computer/)
 
@@ -194,7 +194,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 * [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 51 | 🐛 15 | 🌐 Assembly | 📅 2026-10-19 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
-* [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 31 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
+* [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 32 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 29 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
 * [Temple of ROM](https://github.com/yggdrasilradio/templeofrom) ⭐ 21 | 🐛 0 | 🌐 Assembly | 📅 2024-06-02 - Author Rick Adams release (Disassembly by William Astle)
 * [Joust\_CoCo3](https://github.com/nowhereman999/Joust_CoCo3) ⭐ 13 | 🐛 1 | 📅 2021-09-29 - Conversion of William's arcade game by Glen Hewlett
@@ -285,7 +285,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### Assembly
 
-* [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim) ⭐ 65 | 🐛 1 | 🌐 Assembly | 📅 2013-02-19
+* [Vim](https://github.com/74hc595/Ultim809/blob/master/code/as6809.vim) ⭐ 66 | 🐛 1 | 🌐 Assembly | 📅 2013-02-19
 * [Emacs](https://gitlab.com/NF6X_Retrocomputing/lwasm-mode)
 * [Notepad++](https://gist.github.com/pfiscarelli/4013e3fd743c41ffa788328fbbb4bfd9)
 * [Sublime Text](https://packagecontrol.io/packages/Assembly%206809%20and%206309%20Syntax%20Highlighting)
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
