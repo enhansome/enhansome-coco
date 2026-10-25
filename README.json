@@ -454,7 +454,7 @@
                 "language": "Assembly",
                 "license": null,
                 "last_commit": "2026-10-24T04:01:12Z",
-                "open_issues": 14,
+                "open_issues": 20,
                 "owner": "nitros9project",
                 "repo": "nitros9",
                 "stars": 52,
@@ -1144,8 +1144,8 @@
                 "id": 115841109,
                 "language": "Dockerfile",
                 "license": null,
-                "last_commit": "2026-09-19T08:50:17Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-25T09:47:20Z",
+                "open_issues": 1,
                 "owner": "jamieleecho",
                 "repo": "coco-dev",
                 "stars": 21,
@@ -1509,7 +1509,7 @@
                         "open_issues": 4,
                         "owner": "emmanuel-marty",
                         "repo": "salvador",
-                        "stars": 103,
+                        "stars": 104,
                         "topics": [
                           "8-bit",
                           "amiga",
@@ -1565,7 +1565,7 @@
                     "open_issues": 20,
                     "owner": "einar-saukas",
                     "repo": "ZX0",
-                    "stars": 245,
+                    "stars": 246,
                     "topics": [
                       "compression",
                       "compressor",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:40:14.246Z",
+    "last_updated": "2026-10-25T17:53:46.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
