@@ -453,8 +453,8 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-24T04:01:12Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-26T19:08:23Z",
+                "open_issues": 16,
                 "owner": "nitros9project",
                 "repo": "nitros9",
                 "stars": 52,
@@ -1144,8 +1144,8 @@
                 "id": 115841109,
                 "language": "Dockerfile",
                 "license": null,
-                "last_commit": "2026-10-25T09:47:20Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-25T22:19:56Z",
+                "open_issues": 0,
                 "owner": "jamieleecho",
                 "repo": "coco-dev",
                 "stars": 21,
@@ -1306,7 +1306,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-08-29T20:26:58Z",
-                "open_issues": 2,
+                "open_issues": 5,
                 "owner": "nitros9project",
                 "repo": "toolshed",
                 "stars": 18,
@@ -1565,7 +1565,7 @@
                     "open_issues": 20,
                     "owner": "einar-saukas",
                     "repo": "ZX0",
-                    "stars": 246,
+                    "stars": 247,
                     "topics": [
                       "compression",
                       "compressor",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:53:46.050Z",
+    "last_updated": "2026-10-26T20:11:25.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
