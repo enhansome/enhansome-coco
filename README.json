@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "reyco2000",
             "repo": "CoCo-Image-Viewer",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "cm3",
               "coco",
@@ -130,7 +130,7 @@
                     "open_issues": 25,
                     "owner": "Wohlstand",
                     "repo": "OPL3BankEditor",
-                    "stars": 175,
+                    "stars": 176,
                     "topics": [
                       "ail",
                       "bank-format",
@@ -453,8 +453,8 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-27T14:02:18Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-28T19:22:19Z",
+                "open_issues": 16,
                 "owner": "nitros9project",
                 "repo": "nitros9",
                 "stars": 52,
@@ -1305,8 +1305,8 @@
                 "id": 691338838,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-27T14:48:09Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-28T17:49:00Z",
+                "open_issues": 3,
                 "owner": "nitros9project",
                 "repo": "toolshed",
                 "stars": 18,
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:41:37.803Z",
+    "last_updated": "2026-10-28T19:54:52.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
