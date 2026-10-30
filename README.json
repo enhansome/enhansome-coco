@@ -453,7 +453,7 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-29T19:04:12Z",
+                "last_commit": "2026-10-29T20:57:50Z",
                 "open_issues": 16,
                 "owner": "nitros9project",
                 "repo": "nitros9",
@@ -625,7 +625,7 @@
                 "open_issues": 0,
                 "owner": "jamieleecho",
                 "repo": "space-bandits",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
@@ -872,27 +872,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Joust",
-                  "description": "M6809 arcade game",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A flapping, flying, bouncing, lava and platform game.",
-                    "homepage": null,
-                    "id": 327771769,
-                    "language": "Roff",
-                    "license": null,
-                    "last_commit": "2021-01-08T02:14:13Z",
-                    "open_issues": 3,
-                    "owner": "historicalsource",
-                    "repo": "joust",
-                    "stars": 59,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T23:43:10.301Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Sinistar",
                   "description": "M6809 arcade game",
                   "children": [],
@@ -908,6 +887,27 @@
                     "owner": "historicalsource",
                     "repo": "sinistar",
                     "stars": 59,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T23:43:10.301Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Joust",
+                  "description": "M6809 arcade game",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A flapping, flying, bouncing, lava and platform game.",
+                    "homepage": null,
+                    "id": 327771769,
+                    "language": "Roff",
+                    "license": null,
+                    "last_commit": "2021-01-08T02:14:13Z",
+                    "open_issues": 3,
+                    "owner": "historicalsource",
+                    "repo": "joust",
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
@@ -1024,9 +1024,9 @@
                 "description": "The official home of DriveWire.",
                 "homepage": null,
                 "id": 702529693,
-                "language": "Objective-C",
+                "language": "Swift",
                 "license": null,
-                "last_commit": "2026-07-28T09:10:27Z",
+                "last_commit": "2026-10-29T23:13:44Z",
                 "open_issues": 3,
                 "owner": "DrPitre",
                 "repo": "DriveWire",
@@ -1045,9 +1045,9 @@
                 "description": "The official home of DriveWire.",
                 "homepage": null,
                 "id": 702529693,
-                "language": "Objective-C",
+                "language": "Swift",
                 "license": null,
-                "last_commit": "2026-07-28T09:10:27Z",
+                "last_commit": "2026-10-29T23:13:44Z",
                 "open_issues": 3,
                 "owner": "DrPitre",
                 "repo": "DriveWire",
@@ -1235,8 +1235,8 @@
                 "id": 227663457,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-19T15:20:52Z",
-                "open_issues": 37,
+                "last_commit": "2026-10-29T23:14:58Z",
+                "open_issues": 36,
                 "owner": "VCCE",
                 "repo": "VCC",
                 "stars": 82,
@@ -1305,8 +1305,8 @@
                 "id": 691338838,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-29T18:13:21Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-30T18:43:28Z",
+                "open_issues": 3,
                 "owner": "nitros9project",
                 "repo": "toolshed",
                 "stars": 18,
@@ -1468,7 +1468,7 @@
                     "open_issues": 11,
                     "owner": "emmanuel-marty",
                     "repo": "lzsa",
-                    "stars": 262,
+                    "stars": 263,
                     "topics": [
                       "6309",
                       "6502",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:54:52.657Z",
+    "last_updated": "2026-10-30T19:44:33.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
