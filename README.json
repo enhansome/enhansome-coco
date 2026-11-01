@@ -102,7 +102,7 @@
                     "open_issues": 0,
                     "owner": "sorchard001",
                     "repo": "cyd-gmc",
-                    "stars": 4,
+                    "stars": 5,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
@@ -184,7 +184,7 @@
                 "open_issues": 8,
                 "owner": "hoglet67",
                 "repo": "AtomBusMon",
-                "stars": 108,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
@@ -453,8 +453,8 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-10-30T21:00:20Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-01T19:13:40Z",
+                "open_issues": 16,
                 "owner": "nitros9project",
                 "repo": "nitros9",
                 "stars": 52,
@@ -1236,7 +1236,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-29T23:14:58Z",
-                "open_issues": 36,
+                "open_issues": 38,
                 "owner": "VCCE",
                 "repo": "VCC",
                 "stars": 82,
@@ -1305,8 +1305,8 @@
                 "id": 691338838,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-31T15:54:25Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-01T17:58:14Z",
+                "open_issues": 2,
                 "owner": "nitros9project",
                 "repo": "toolshed",
                 "stars": 18,
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:51:36.536Z",
+    "last_updated": "2026-11-01T19:14:27.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
