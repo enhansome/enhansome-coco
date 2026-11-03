@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,660 | 🐛 104 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,264 | 🐛 103 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -154,8 +154,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 * [CoCo Motherboards](https://github.com/qbancoffee/coco_motherboards) ⭐ 40 | 🐛 1 | 🌐 HTML | 📅 2025-07-20
 * [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb) ⭐ 29 | 🐛 1 | 🌐 Assembly | 📅 2026-09-28
 * [CoCo Prototyping Board](https://github.com/JayesonLS/TandyCircuitsAndLogic/tree/master/CoCoProtoBoard) ⭐ 14 | 🐛 0 | 📅 2021-05-18
+* [CoCo Am9511 Pak](https://github.com/barberd/coco9511pak) ⭐ 13 | 🐛 0 | 🌐 Assembly | 📅 2024-12-08 - Arithmethic Processor Unit (AMD 9511) Cartridge by Don Barber
 * [FlashPak](https://github.com/go4retro/FlashPak) ⭐ 13 | 🐛 0 | 🌐 Assembly | 📅 2024-05-07 - 512kB FLASH ROM Cartridge Unit
-* [CoCo Am9511 Pak](https://github.com/barberd/coco9511pak) ⭐ 12 | 🐛 0 | 🌐 Assembly | 📅 2024-12-08 - Arithmethic Processor Unit (AMD 9511) Cartridge by Don Barber
 * [CoCo Daiquiri - Replacement board for the SC77527P DAC Chip](https://github.com/qbancoffee/coco_daiquiri) ⭐ 7 | 🐛 0 | 📅 2023-02-24
 * [CoCo-FujiNet](https://github.com/djtersteegc/Coco-FujiNet) ⭐ 6 | 🐛 1 | 📅 2025-02-03 - Multi-peripheral emulator and WiFi network device
 * [Hardware Keyboard Encoder](https://github.com/wyndec/CoCoKeys2USB) ⭐ 6 | 🐛 1 | 🌐 C++ | 📅 2021-10-27
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 52 | 🐛 16 | 🌐 Assembly | 📅 2026-11-02 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 52 | 🐛 15 | 🌐 Assembly | 📅 2026-11-02 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 32 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 29 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -319,7 +319,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### Tools
 
 * [f9dasm](https://github.com/Arakula/f9dasm) ⭐ 87 | 🐛 7 | 🌐 C | 📅 2023-07-04 - Disassembler
-* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2026-11-02 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2026-11-02
+* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 18 | 🐛 2 | 🌐 C | 📅 2026-11-03 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 18 | 🐛 2 | 🌐 C | 📅 2026-11-03
 * [dasmfw](https://github.com/Arakula/dasmfw) ⭐ 14 | 🐛 11 | 🌐 C++ | 📅 2023-07-04 - DisASseMbler FrameWork
 * [cocostress](https://github.com/richard42/cocostress) ⭐ 7 | 🐛 1 | 🌐 Assembly | 📅 2020-04-21 - CoCo 3 RAM Stress Tester
 * [m6809-dev](https://github.com/stahta01/m6809-dev) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-10-01 - MSys2 mingw package builds for cross developing
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
