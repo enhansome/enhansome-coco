@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,264 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,906 | 🐛 103 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -224,11 +224,11 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 * [Defender](https://github.com/historicalsource/defender) ⭐ 141 | 🐛 0 | 📅 2021-01-08 - M6809 arcade game
 * [Microsoft BASIC](https://github.com/davidlinsley/DragonBasic) ⭐ 119 | 🐛 2 | 📅 2023-10-20 - Dragon 64 computer
-* [Sinistar](https://github.com/historicalsource/sinistar) ⭐ 59 | 🐛 2 | 🌐 DIGITAL Command Language | 📅 2021-04-06 - M6809 arcade game
-* [Joust](https://github.com/historicalsource/joust) ⭐ 57 | 🐛 3 | 🌐 Roff | 📅 2021-01-08 - M6809 arcade game
-* [Robotron](https://github.com/historicalsource/robotron) ⭐ 48 | 🐛 0 | 🌐 Assembly | 📅 2021-01-08 - M6809 arcade game
-* [Star-Wars](https://github.com/historicalsource/star-wars) ⭐ 45 | 🐛 1 | 📅 2021-10-15 - M6809 arcade game
-* [Stargate](https://github.com/historicalsource/stargate) ⭐ 41 | 🐛 0 | 📅 2021-01-08 - M6809 arcade game
+* [Sinistar](https://github.com/historicalsource/sinistar) ⭐ 60 | 🐛 2 | 🌐 DIGITAL Command Language | 📅 2021-04-06 - M6809 arcade game
+* [Joust](https://github.com/historicalsource/joust) ⭐ 59 | 🐛 3 | 🌐 Roff | 📅 2021-01-08 - M6809 arcade game
+* [Robotron](https://github.com/historicalsource/robotron) ⭐ 49 | 🐛 0 | 🌐 Assembly | 📅 2021-01-08 - M6809 arcade game
+* [Star-Wars](https://github.com/historicalsource/star-wars) ⭐ 46 | 🐛 1 | 📅 2021-10-15 - M6809 arcade game
+* [Stargate](https://github.com/historicalsource/stargate) ⭐ 42 | 🐛 0 | 📅 2021-01-08 - M6809 arcade game
 
 ### Videos
 
@@ -319,7 +319,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### Tools
 
 * [f9dasm](https://github.com/Arakula/f9dasm) ⭐ 87 | 🐛 7 | 🌐 C | 📅 2023-07-04 - Disassembler
-* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 18 | 🐛 2 | 🌐 C | 📅 2026-11-03 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 18 | 🐛 2 | 🌐 C | 📅 2026-11-03
+* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2026-11-04 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2026-11-04
 * [dasmfw](https://github.com/Arakula/dasmfw) ⭐ 14 | 🐛 11 | 🌐 C++ | 📅 2023-07-04 - DisASseMbler FrameWork
 * [cocostress](https://github.com/richard42/cocostress) ⭐ 7 | 🐛 1 | 🌐 Assembly | 📅 2020-04-21 - CoCo 3 RAM Stress Tester
 * [m6809-dev](https://github.com/stahta01/m6809-dev) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-10-01 - MSys2 mingw package builds for cross developing
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
