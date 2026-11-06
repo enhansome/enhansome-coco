@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 531,690 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,373 | 🐛 103 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 52 | 🐛 16 | 🌐 Assembly | 📅 2026-11-05 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 52 | 🐛 17 | 🌐 Assembly | 📅 2026-11-06 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 32 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 29 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -250,8 +250,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### DriveWire
 
 * [pyDriveWire](https://github.com/n6il/pyDriveWire) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2026-07-23 - Python implementation
-* [DriveWire Official Home](https://github.com/boisy/drivewire) ⭐ 15 | 🐛 3 | 🌐 Swift | 📅 2026-10-29
-* [DriveWire Specification](https://github.com/boisy/DriveWire/wiki/DriveWire-Specification) ⭐ 15 | 🐛 3 | 🌐 Swift | 📅 2026-10-29
+* [DriveWire Official Home](https://github.com/boisy/drivewire) ⭐ 15 | 🐛 4 | 🌐 Swift | 📅 2026-11-06
+* [DriveWire Specification](https://github.com/boisy/DriveWire/wiki/DriveWire-Specification) ⭐ 15 | 🐛 4 | 🌐 Swift | 📅 2026-11-06
 * [DriveWire 3 Server for Mac](https://github.com/boisy/drivewire-mac) ⚠️ Archived
 * [DriveWire 3 Server for Linux](https://github.com/boisy/drivewire-unix) ⚠️ Archived
 * [DriveWire 3 Server for Windows](https://github.com/boisy/drivewire-win) ⚠️ Archived
@@ -302,8 +302,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Emulators
 
-* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 82 | 🐛 39 | 🌐 C++ | 📅 2026-10-29 - Virtual Color Computer Emulator
-* [CoCo-Pi](https://github.com/mrgw454/CoCo-Pi) ⭐ 9 | 🐛 0 | 🌐 Shell | 📅 2026-11-05 - Raspberry Pi based CoCo Emulation Distribution
+* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 82 | 🐛 40 | 🌐 C++ | 📅 2026-10-29 - Virtual Color Computer Emulator
+* [CoCo-Pi](https://github.com/mrgw454/CoCo-Pi) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-11-06 - Raspberry Pi based CoCo Emulation Distribution
   * [Set up the CoCoPi and MAME to be a CoCo gaming console](https://youtu.be/sPvzXV0HqoQ)
   * [Setting up the CoCo-Pi - 11 part video series](https://www.youtube.com/watch?v=9Ui6TQsmCP0)
 * [M6809 Online Emulator](http://6809.uk/) - A single page assembler, disassembler and emulator
@@ -339,7 +339,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 #### Compression
 
 * [LZSA](https://github.com/emmanuel-marty/lzsa) ⭐ 263 | 🐛 11 | 🌐 C | 📅 2023-12-24 - Fast Data Decompression by Marty Emmanuel
-* [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 248 | 🐛 20 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
+* [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 249 | 🐛 20 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
   * [Salvador - Fast, near-optimal ZX0 compressor](https://github.com/emmanuel-marty/salvador) ⭐ 104 | 🐛 4 | 🌐 C | 📅 2023-03-23 - by Emmanuel Marty
   * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2026-10-12 - by Doug Masten
 * [apultra](https://github.com/emmanuel-marty/apultra) ⭐ 121 | 🐛 9 | 🌐 C | 📅 2023-05-16 - Optimal data compressor for apLib format by Marty Emmanuel
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
