@@ -291,7 +291,7 @@
                 "language": "Assembly",
                 "license": null,
                 "last_commit": "2024-05-07T04:43:26Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "go4retro",
                 "repo": "FlashPak",
                 "stars": 13,
@@ -453,8 +453,8 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-11-06T15:50:12Z",
-                "open_issues": 17,
+                "last_commit": "2026-11-07T16:54:12Z",
+                "open_issues": 11,
                 "owner": "nitros9project",
                 "repo": "nitros9",
                 "stars": 52,
@@ -1590,7 +1590,7 @@
                     "open_issues": 9,
                     "owner": "emmanuel-marty",
                     "repo": "apultra",
-                    "stars": 121,
+                    "stars": 122,
                     "topics": [
                       "6309",
                       "6502",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:37:49.470Z",
+    "last_updated": "2026-11-07T19:05:00.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",

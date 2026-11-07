@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,373 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,082 | 🐛 103 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -155,7 +155,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 * [CoCo 2 USB Power Mod](https://github.com/hallorant/bigmit/tree/master/coco2usb) ⭐ 29 | 🐛 1 | 🌐 Assembly | 📅 2026-09-28
 * [CoCo Prototyping Board](https://github.com/JayesonLS/TandyCircuitsAndLogic/tree/master/CoCoProtoBoard) ⭐ 14 | 🐛 0 | 📅 2021-05-18
 * [CoCo Am9511 Pak](https://github.com/barberd/coco9511pak) ⭐ 13 | 🐛 0 | 🌐 Assembly | 📅 2024-12-08 - Arithmethic Processor Unit (AMD 9511) Cartridge by Don Barber
-* [FlashPak](https://github.com/go4retro/FlashPak) ⭐ 13 | 🐛 0 | 🌐 Assembly | 📅 2024-05-07 - 512kB FLASH ROM Cartridge Unit
+* [FlashPak](https://github.com/go4retro/FlashPak) ⭐ 13 | 🐛 1 | 🌐 Assembly | 📅 2024-05-07 - 512kB FLASH ROM Cartridge Unit
 * [CoCo Daiquiri - Replacement board for the SC77527P DAC Chip](https://github.com/qbancoffee/coco_daiquiri) ⭐ 7 | 🐛 0 | 📅 2023-02-24
 * [CoCo-FujiNet](https://github.com/djtersteegc/Coco-FujiNet) ⭐ 6 | 🐛 1 | 📅 2025-02-03 - Multi-peripheral emulator and WiFi network device
 * [Hardware Keyboard Encoder](https://github.com/wyndec/CoCoKeys2USB) ⭐ 6 | 🐛 1 | 🌐 C++ | 📅 2021-10-27
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 52 | 🐛 17 | 🌐 Assembly | 📅 2026-11-06 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 52 | 🐛 11 | 🌐 Assembly | 📅 2026-11-07 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 32 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 29 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -342,7 +342,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 * [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 249 | 🐛 20 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
   * [Salvador - Fast, near-optimal ZX0 compressor](https://github.com/emmanuel-marty/salvador) ⭐ 104 | 🐛 4 | 🌐 C | 📅 2023-03-23 - by Emmanuel Marty
   * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2026-10-12 - by Doug Masten
-* [apultra](https://github.com/emmanuel-marty/apultra) ⭐ 121 | 🐛 9 | 🌐 C | 📅 2023-05-16 - Optimal data compressor for apLib format by Marty Emmanuel
+* [apultra](https://github.com/emmanuel-marty/apultra) ⭐ 122 | 🐛 9 | 🌐 C | 📅 2023-05-16 - Optimal data compressor for apLib format by Marty Emmanuel
 * [Exomizer](https://bitbucket.org/magli143/exomizer/wiki/Home) - Packing tool by Magnus Lind
 * [SLZ](https://www.gamedev.net/reference/articles/article294.asp) - LZ77 based compression by Adisak Pochanayon
   * [SLZ M6809 Depacker](https://github.com/beretta42/legsforth/blob/master/cocoboot/slz.asm) ⭐ 6 | 🐛 1 | 🌐 Forth | 📅 2020-07-21
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
