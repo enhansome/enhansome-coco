@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,082 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,747 | 🐛 103 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 52 | 🐛 11 | 🌐 Assembly | 📅 2026-11-07 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 52 | 🐛 12 | 🌐 Assembly | 📅 2026-11-08 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 32 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 29 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -250,8 +250,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### DriveWire
 
 * [pyDriveWire](https://github.com/n6il/pyDriveWire) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2026-07-23 - Python implementation
-* [DriveWire Official Home](https://github.com/boisy/drivewire) ⭐ 15 | 🐛 4 | 🌐 Swift | 📅 2026-11-06
-* [DriveWire Specification](https://github.com/boisy/DriveWire/wiki/DriveWire-Specification) ⭐ 15 | 🐛 4 | 🌐 Swift | 📅 2026-11-06
+* [DriveWire Official Home](https://github.com/boisy/drivewire) ⭐ 15 | 🐛 3 | 🌐 Swift | 📅 2026-11-08
+* [DriveWire Specification](https://github.com/boisy/DriveWire/wiki/DriveWire-Specification) ⭐ 15 | 🐛 3 | 🌐 Swift | 📅 2026-11-08
 * [DriveWire 3 Server for Mac](https://github.com/boisy/drivewire-mac) ⚠️ Archived
 * [DriveWire 3 Server for Linux](https://github.com/boisy/drivewire-unix) ⚠️ Archived
 * [DriveWire 3 Server for Windows](https://github.com/boisy/drivewire-win) ⚠️ Archived
@@ -302,7 +302,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Emulators
 
-* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 82 | 🐛 40 | 🌐 C++ | 📅 2026-10-29 - Virtual Color Computer Emulator
+* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 83 | 🐛 43 | 🌐 C++ | 📅 2026-10-29 - Virtual Color Computer Emulator
 * [CoCo-Pi](https://github.com/mrgw454/CoCo-Pi) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-11-06 - Raspberry Pi based CoCo Emulation Distribution
   * [Set up the CoCoPi and MAME to be a CoCo gaming console](https://youtu.be/sPvzXV0HqoQ)
   * [Setting up the CoCo-Pi - 11 part video series](https://www.youtube.com/watch?v=9Ui6TQsmCP0)
@@ -319,7 +319,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### Tools
 
 * [f9dasm](https://github.com/Arakula/f9dasm) ⭐ 87 | 🐛 7 | 🌐 C | 📅 2023-07-04 - Disassembler
-* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2026-11-05 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2026-11-05
+* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2026-11-08 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2026-11-08
 * [dasmfw](https://github.com/Arakula/dasmfw) ⭐ 14 | 🐛 11 | 🌐 C++ | 📅 2023-07-04 - DisASseMbler FrameWork
 * [cocostress](https://github.com/richard42/cocostress) ⭐ 7 | 🐛 1 | 🌐 Assembly | 📅 2020-04-21 - CoCo 3 RAM Stress Tester
 * [m6809-dev](https://github.com/stahta01/m6809-dev) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-10-01 - MSys2 mingw package builds for cross developing
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
