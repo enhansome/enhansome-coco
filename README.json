@@ -453,8 +453,8 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-11-08T18:51:28Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-09T12:19:17Z",
+                "open_issues": 14,
                 "owner": "nitros9project",
                 "repo": "nitros9",
                 "stars": 52,
@@ -928,7 +928,7 @@
                     "open_issues": 0,
                     "owner": "historicalsource",
                     "repo": "robotron",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
@@ -1305,7 +1305,7 @@
                 "id": 691338838,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-11-08T18:02:53Z",
+                "last_commit": "2026-11-09T20:49:22Z",
                 "open_issues": 1,
                 "owner": "nitros9project",
                 "repo": "toolshed",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:12:23.505Z",
+    "last_updated": "2026-11-09T23:36:27.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
