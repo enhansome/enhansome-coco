@@ -453,8 +453,8 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-11-10T00:10:55Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-11T21:06:44Z",
+                "open_issues": 11,
                 "owner": "nitros9project",
                 "repo": "nitros9",
                 "stars": 52,
@@ -1256,7 +1256,7 @@
                 "id": 391392338,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-06T13:45:27Z",
+                "last_commit": "2026-11-11T15:30:28Z",
                 "open_issues": 0,
                 "owner": "mrgw454",
                 "repo": "CoCo-Pi",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:02:51.425Z",
+    "last_updated": "2026-11-11T21:41:30.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
