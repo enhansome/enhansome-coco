@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,897 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,392 | 🐛 104 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -105,7 +105,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### OPL3 - MEGA mini MPI and SDC Extender (YMF-262 Sound Chip)
 
-* [OPL3BankEditor](https://github.com/Wohlstand/OPL3BankEditor) ⭐ 176 | 🐛 25 | 🌐 C++ | 📅 2026-09-28 - Cross-platform OPL3 FM banks editor
+* [OPL3BankEditor](https://github.com/Wohlstand/OPL3BankEditor) ⭐ 177 | 🐛 25 | 🌐 C++ | 📅 2026-09-28 - Cross-platform OPL3 FM banks editor
 * [Programmer's Guide to Yamaha YMF 262/OPL3 FM Music Synthesizer](https://www.fit.vutbr.cz/~arnost/opl/opl3.html)
 * [Programming the OPL3 with the Color Computer](https://thezippsterzone.com/2018/12/01/programming-the-opl3-chip-with-the-color-computer/)
 
@@ -192,11 +192,11 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 52 | 🐛 11 | 🌐 Assembly | 📅 2026-11-11 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 52 | 🐛 11 | 🌐 Assembly | 📅 2026-11-13 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 32 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 29 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
-* [Temple of ROM](https://github.com/yggdrasilradio/templeofrom) ⭐ 21 | 🐛 0 | 🌐 Assembly | 📅 2024-06-02 - Author Rick Adams release (Disassembly by William Astle)
+* [Temple of ROM](https://github.com/yggdrasilradio/templeofrom) ⭐ 20 | 🐛 0 | 🌐 Assembly | 📅 2024-06-02 - Author Rick Adams release (Disassembly by William Astle)
 * [Joust\_CoCo3](https://github.com/nowhereman999/Joust_CoCo3) ⭐ 13 | 🐛 1 | 📅 2021-09-29 - Conversion of William's arcade game by Glen Hewlett
 * [Color Max Deluxe (1987)](https://github.com/milliluk/colormax) ⭐ 12 | 🐛 0 | 🌐 Assembly | 📅 2021-10-05 - Original source code by Erik Gavriluk and Greg Miller
 * [Defender\_CoCo3](https://github.com/nowhereman999/Defender_CoCo3) ⭐ 11 | 🐛 0 | 📅 2021-09-28 - Conversion of William's arcade game by Glen Hewlett
@@ -318,8 +318,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Tools
 
-* [f9dasm](https://github.com/Arakula/f9dasm) ⭐ 87 | 🐛 7 | 🌐 C | 📅 2023-07-04 - Disassembler
-* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2026-11-09 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 18 | 🐛 1 | 🌐 C | 📅 2026-11-09
+* [f9dasm](https://github.com/Arakula/f9dasm) ⭐ 86 | 🐛 7 | 🌐 C | 📅 2023-07-04 - Disassembler
+* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 18 | 🐛 2 | 🌐 C | 📅 2026-11-09 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 18 | 🐛 2 | 🌐 C | 📅 2026-11-09
 * [dasmfw](https://github.com/Arakula/dasmfw) ⭐ 14 | 🐛 11 | 🌐 C++ | 📅 2023-07-04 - DisASseMbler FrameWork
 * [cocostress](https://github.com/richard42/cocostress) ⭐ 7 | 🐛 1 | 🌐 Assembly | 📅 2020-04-21 - CoCo 3 RAM Stress Tester
 * [m6809-dev](https://github.com/stahta01/m6809-dev) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-10-01 - MSys2 mingw package builds for cross developing
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
