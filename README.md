@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,863 | 🐛 104 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,408 | 🐛 104 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 52 | 🐛 15 | 🌐 Assembly | 📅 2026-11-14 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 52 | 🐛 17 | 🌐 Assembly | 📅 2026-11-15 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 32 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 29 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -250,8 +250,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### DriveWire
 
 * [pyDriveWire](https://github.com/n6il/pyDriveWire) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2026-07-23 - Python implementation
-* [DriveWire Official Home](https://github.com/boisy/drivewire) ⭐ 15 | 🐛 3 | 🌐 Swift | 📅 2026-11-08
-* [DriveWire Specification](https://github.com/boisy/DriveWire/wiki/DriveWire-Specification) ⭐ 15 | 🐛 3 | 🌐 Swift | 📅 2026-11-08
+* [DriveWire Official Home](https://github.com/boisy/drivewire) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2026-11-15
+* [DriveWire Specification](https://github.com/boisy/DriveWire/wiki/DriveWire-Specification) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2026-11-15
 * [DriveWire 3 Server for Mac](https://github.com/boisy/drivewire-mac) ⚠️ Archived
 * [DriveWire 3 Server for Linux](https://github.com/boisy/drivewire-unix) ⚠️ Archived
 * [DriveWire 3 Server for Windows](https://github.com/boisy/drivewire-win) ⚠️ Archived
@@ -319,7 +319,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### Tools
 
 * [f9dasm](https://github.com/Arakula/f9dasm) ⭐ 86 | 🐛 7 | 🌐 C | 📅 2023-07-04 - Disassembler
-* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 18 | 🐛 2 | 🌐 C | 📅 2026-11-09 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 18 | 🐛 2 | 🌐 C | 📅 2026-11-09
+* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 18 | 🐛 2 | 🌐 C | 📅 2026-11-14 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 18 | 🐛 2 | 🌐 C | 📅 2026-11-14
 * [dasmfw](https://github.com/Arakula/dasmfw) ⭐ 14 | 🐛 11 | 🌐 C++ | 📅 2023-07-04 - DisASseMbler FrameWork
 * [cocostress](https://github.com/richard42/cocostress) ⭐ 7 | 🐛 1 | 🌐 Assembly | 📅 2020-04-21 - CoCo 3 RAM Stress Tester
 * [m6809-dev](https://github.com/stahta01/m6809-dev) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-10-01 - MSys2 mingw package builds for cross developing
@@ -333,15 +333,15 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 #### Checksum
 
-* [CRC32-6x09](https://github.com/dougmasten/crc32-6x09) ⭐ 5 | 🐛 0 | 🌐 Assembly | 📅 2021-06-26 - CRC-32 Library for H6309
+* [CRC32-6x09](https://github.com/dougmasten/crc32-6x09) ⭐ 6 | 🐛 0 | 🌐 Assembly | 📅 2021-06-26 - CRC-32 Library for H6309
 * [CRC-16-CCITT](http://www.6809.org.uk/dragon/asm/crc16.s) - by Ciaran Anscomb
 
 #### Compression
 
 * [LZSA](https://github.com/emmanuel-marty/lzsa) ⭐ 263 | 🐛 12 | 🌐 C | 📅 2023-12-24 - Fast Data Decompression by Marty Emmanuel
 * [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 249 | 🐛 20 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
-  * [Salvador - Fast, near-optimal ZX0 compressor](https://github.com/emmanuel-marty/salvador) ⭐ 104 | 🐛 4 | 🌐 C | 📅 2023-03-23 - by Emmanuel Marty
-  * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2026-10-12 - by Doug Masten
+  * [Salvador - Fast, near-optimal ZX0 compressor](https://github.com/emmanuel-marty/salvador) ⭐ 105 | 🐛 4 | 🌐 C | 📅 2023-03-23 - by Emmanuel Marty
+  * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) ⭐ 12 | 🐛 0 | 🌐 Assembly | 📅 2026-10-12 - by Doug Masten
 * [apultra](https://github.com/emmanuel-marty/apultra) ⭐ 122 | 🐛 9 | 🌐 C | 📅 2023-05-16 - Optimal data compressor for apLib format by Marty Emmanuel
 * [Exomizer](https://bitbucket.org/magli143/exomizer/wiki/Home) - Packing tool by Magnus Lind
 * [SLZ](https://www.gamedev.net/reference/articles/article294.asp) - LZ77 based compression by Adisak Pochanayon
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
