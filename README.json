@@ -16,7 +16,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2025-01-27T16:28:35Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "hoglet67",
             "repo": "6809Decoder",
             "stars": 27,
@@ -37,7 +37,7 @@
             "language": "C",
             "license": null,
             "last_commit": "2025-01-27T16:28:35Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "hoglet67",
             "repo": "6809Decoder",
             "stars": 27,
@@ -454,10 +454,10 @@
                 "language": "Assembly",
                 "license": null,
                 "last_commit": "2026-11-15T15:10:26Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "nitros9project",
                 "repo": "nitros9",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
@@ -1236,7 +1236,7 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-14T04:40:14Z",
-                "open_issues": 42,
+                "open_issues": 45,
                 "owner": "VCCE",
                 "repo": "VCC",
                 "stars": 83,
@@ -1309,7 +1309,7 @@
                 "open_issues": 1,
                 "owner": "nitros9project",
                 "repo": "toolshed",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "retrocomputing"
                 ]
@@ -1868,7 +1868,7 @@
                     "open_issues": 1,
                     "owner": "jefftranter",
                     "repo": "6809",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:10.301Z"
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:32:54.848Z",
+    "last_updated": "2026-11-17T22:42:13.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
