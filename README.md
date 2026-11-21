@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 539,992 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 540,479 | 🐛 103 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -250,8 +250,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### DriveWire
 
 * [pyDriveWire](https://github.com/n6il/pyDriveWire) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2026-07-23 - Python implementation
-* [DriveWire Official Home](https://github.com/boisy/drivewire) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2026-11-15
-* [DriveWire Specification](https://github.com/boisy/DriveWire/wiki/DriveWire-Specification) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2026-11-15
+* [DriveWire Official Home](https://github.com/boisy/drivewire) ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2026-11-15
+* [DriveWire Specification](https://github.com/boisy/DriveWire/wiki/DriveWire-Specification) ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2026-11-15
 * [DriveWire 3 Server for Mac](https://github.com/boisy/drivewire-mac) ⚠️ Archived
 * [DriveWire 3 Server for Linux](https://github.com/boisy/drivewire-unix) ⚠️ Archived
 * [DriveWire 3 Server for Windows](https://github.com/boisy/drivewire-win) ⚠️ Archived
@@ -319,7 +319,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### Tools
 
 * [f9dasm](https://github.com/Arakula/f9dasm) ⭐ 86 | 🐛 7 | 🌐 C | 📅 2023-07-04 - Disassembler
-* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 19 | 🐛 1 | 🌐 C | 📅 2026-11-19 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 19 | 🐛 1 | 🌐 C | 📅 2026-11-19
+* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 19 | 🐛 2 | 🌐 C | 📅 2026-11-19 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 19 | 🐛 2 | 🌐 C | 📅 2026-11-19
 * [dasmfw](https://github.com/Arakula/dasmfw) ⭐ 14 | 🐛 11 | 🌐 C++ | 📅 2023-07-04 - DisASseMbler FrameWork
 * [cocostress](https://github.com/richard42/cocostress) ⭐ 7 | 🐛 1 | 🌐 Assembly | 📅 2020-04-21 - CoCo 3 RAM Stress Tester
 * [m6809-dev](https://github.com/stahta01/m6809-dev) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-10-01 - MSys2 mingw package builds for cross developing
@@ -339,7 +339,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 #### Compression
 
 * [LZSA](https://github.com/emmanuel-marty/lzsa) ⭐ 263 | 🐛 12 | 🌐 C | 📅 2023-12-24 - Fast Data Decompression by Marty Emmanuel
-* [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 251 | 🐛 20 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
+* [ZX0](https://github.com/einar-saukas/ZX0) ⭐ 252 | 🐛 20 | 🌐 Assembly | 📅 2023-09-24 - by Einar Saukas
   * [Salvador - Fast, near-optimal ZX0 compressor](https://github.com/emmanuel-marty/salvador) ⭐ 105 | 🐛 4 | 🌐 C | 📅 2023-03-23 - by Emmanuel Marty
   * [ZX0 6x09 Decompressor](https://github.com/dougmasten/zx0-6x09) ⭐ 12 | 🐛 0 | 🌐 Assembly | 📅 2026-10-12 - by Doug Masten
 * [apultra](https://github.com/emmanuel-marty/apultra) ⭐ 122 | 🐛 9 | 🌐 C | 📅 2023-05-16 - Optimal data compressor for apLib format by Marty Emmanuel
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

@@ -1030,7 +1030,7 @@
                 "open_issues": 0,
                 "owner": "DrPitre",
                 "repo": "DriveWire",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 0,
                 "owner": "DrPitre",
                 "repo": "DriveWire",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:43:10.301Z"
@@ -1306,7 +1306,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-11-19T23:11:34Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "nitros9project",
                 "repo": "toolshed",
                 "stars": 19,
@@ -1565,7 +1565,7 @@
                     "open_issues": 20,
                     "owner": "einar-saukas",
                     "repo": "ZX0",
-                    "stars": 251,
+                    "stars": 252,
                     "topics": [
                       "compression",
                       "compressor",
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:59:24.313Z",
+    "last_updated": "2026-11-21T20:40:39.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
