@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 541,702 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 542,319 | 🐛 103 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 53 | 🐛 15 | 🌐 Assembly | 📅 2026-11-23 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 53 | 🐛 10 | 🌐 Assembly | 📅 2026-11-24 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 32 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 29 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -302,7 +302,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Emulators
 
-* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 83 | 🐛 46 | 🌐 C++ | 📅 2026-11-14 - Virtual Color Computer Emulator
+* [VCC](https://github.com/VCCE/VCC/releases) ⭐ 83 | 🐛 44 | 🌐 C++ | 📅 2026-11-24 - Virtual Color Computer Emulator
 * [CoCo-Pi](https://github.com/mrgw454/CoCo-Pi) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - Raspberry Pi based CoCo Emulation Distribution
   * [Set up the CoCoPi and MAME to be a CoCo gaming console](https://youtu.be/sPvzXV0HqoQ)
   * [Setting up the CoCo-Pi - 11 part video series](https://www.youtube.com/watch?v=9Ui6TQsmCP0)
@@ -319,7 +319,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### Tools
 
 * [f9dasm](https://github.com/Arakula/f9dasm) ⭐ 86 | 🐛 7 | 🌐 C | 📅 2023-07-04 - Disassembler
-* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 22 | 🐛 3 | 🌐 C | 📅 2026-11-23 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 22 | 🐛 3 | 🌐 C | 📅 2026-11-23
+* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 22 | 🐛 2 | 🌐 C | 📅 2026-11-24 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 22 | 🐛 2 | 🌐 C | 📅 2026-11-24
 * [dasmfw](https://github.com/Arakula/dasmfw) ⭐ 14 | 🐛 11 | 🌐 C++ | 📅 2023-07-04 - DisASseMbler FrameWork
 * [cocostress](https://github.com/richard42/cocostress) ⭐ 7 | 🐛 1 | 🌐 Assembly | 📅 2020-04-21 - CoCo 3 RAM Stress Tester
 * [m6809-dev](https://github.com/stahta01/m6809-dev) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-10-01 - MSys2 mingw package builds for cross developing
