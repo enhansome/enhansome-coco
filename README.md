@@ -1,7 +1,7 @@
 # Awesome Tandy CoCo Development with stars
 
 A curated list of awesome [Tandy Color Computer](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) development resources, tools, docs and related projects.
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,406 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,940 | 🐛 103 | 📅 2026-09-02 list thing.
 
 This work is donated to the public domain under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
@@ -46,8 +46,8 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ## Documentation
 
-* [Undocumented 6309 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6309-Behaviours) ⭐ 27 | 🐛 2 | 🌐 C | 📅 2025-01-27 - by David Banks
-* [Undocumented 6809 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6809-Behaviours) ⭐ 27 | 🐛 2 | 🌐 C | 📅 2025-01-27 - by David Banks
+* [Undocumented 6309 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6309-Behaviours) ⭐ 28 | 🐛 2 | 🌐 C | 📅 2025-01-27 - by David Banks
+* [Undocumented 6809 Behaviors](https://github.com/hoglet67/6809Decoder/wiki/Undocumented-6809-Behaviours) ⭐ 28 | 🐛 2 | 🌐 C | 📅 2025-01-27 - by David Banks
 * [CoCo Graphics File Formats](https://github.com/reyco2000/CoCo-Image-Viewer/blob/main/documentation/COCO-PICS-FORMATS.md) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-04-14 - by Reinaldo Torres
 * [CoCo 3 Hardware Programming](https://www.lomont.org/software/misc/coco/Lomont_CoCoHardware.pdf)
 * [CoCo 3 Schematic](https://colorcomputerarchive.com/repo/Documents/Manuals/Hardware/Color%20Computer%203%20Revised%20Schematic%20%28Ty%20Sopko%29.pdf)
@@ -192,7 +192,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ### Source Code
 
-* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 53 | 🐛 10 | 🌐 Assembly | 📅 2026-11-25 - Community-based distribution of Microware OS-9 operating system
+* [NitrOS-9](https://github.com/nitros9project/nitros9) ⭐ 53 | 🐛 10 | 🌐 Assembly | 📅 2026-11-27 - Community-based distribution of Microware OS-9 operating system
 * [CoCo ROMs](https://github.com/tomctomc/coco_roms) ⭐ 42 | 🐛 0 | 🌐 Assembly | 📅 2024-03-20 - Color Computer ROM disassemblies
 * [Apple2CoCo](https://github.com/dragonbytes/Apple2CoCo) ⭐ 32 | 🐛 0 | 🌐 Assembly | 📅 2024-02-20 - Apple II emulator
 * [Dungeons of Daggorath](https://github.com/MichaelSpencerJr/DungeonsOfDaggorath) ⭐ 29 | 🐛 21 | 🌐 Assembly | 📅 2022-02-14 - Original source code
@@ -319,7 +319,7 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 ### Tools
 
 * [f9dasm](https://github.com/Arakula/f9dasm) ⭐ 86 | 🐛 7 | 🌐 C | 📅 2023-07-04 - Disassembler
-* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 22 | 🐛 2 | 🌐 C | 📅 2026-11-26 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 22 | 🐛 2 | 🌐 C | 📅 2026-11-26
+* [Toolshed](https://github.com/nitros9project/toolshed) ⭐ 22 | 🐛 1 | 🌐 C | 📅 2026-11-27 - Cross-development disk images tools [Documentation](https://github.com/nitros9project/toolshed/wiki) ⭐ 22 | 🐛 1 | 🌐 C | 📅 2026-11-27
 * [dasmfw](https://github.com/Arakula/dasmfw) ⭐ 14 | 🐛 11 | 🌐 C++ | 📅 2023-07-04 - DisASseMbler FrameWork
 * [cocostress](https://github.com/richard42/cocostress) ⭐ 7 | 🐛 1 | 🌐 Assembly | 📅 2020-04-21 - CoCo 3 RAM Stress Tester
 * [m6809-dev](https://github.com/stahta01/m6809-dev) ⭐ 3 | 🐛 0 | 🌐 Shell | 📅 2026-10-01 - MSys2 mingw package builds for cross developing
@@ -395,4 +395,4 @@ This work is donated to the public domain under the [CC0 Public Domain Dedicatio
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

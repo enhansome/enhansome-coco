@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "hoglet67",
             "repo": "6809Decoder",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.301Z"
@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "hoglet67",
             "repo": "6809Decoder",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T23:43:10.301Z"
@@ -453,7 +453,7 @@
                 "id": 692304064,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-11-25T13:33:45Z",
+                "last_commit": "2026-11-27T19:28:08Z",
                 "open_issues": 10,
                 "owner": "nitros9project",
                 "repo": "nitros9",
@@ -1305,8 +1305,8 @@
                 "id": 691338838,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-11-26T19:06:07Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-27T19:58:34Z",
+                "open_issues": 1,
                 "owner": "nitros9project",
                 "repo": "toolshed",
                 "stars": 22,
@@ -1930,7 +1930,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:22:21.668Z",
+    "last_updated": "2026-11-27T23:00:29.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Tandy Color Computer development tools, software and resources.",
